@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LootGroup category="mineshaftCorridor" loading_mode="OVERRIDE" count_min="3" count_max="7">
+    <loot item="minecraft:iron_ingot" damage="0" weight="10" count_min="1" count_max="5"/>
+    <loot item="minecraft:gold_ingot" damage="0" weight="5" count_min="1" count_max="3"/>
+    <loot item="minecraft:redstone" damage="0" weight="5" count_min="4" count_max="9"/>
+    <loot item="minecraft:dye" damage="4" weight="5" count_min="4" count_max="9"/>
+    <loot item="minecraft:diamond" damage="0" weight="3" count_min="1" count_max="2"/>
+    <loot item="minecraft:coal" damage="0" weight="10" count_min="3" count_max="8"/>
+    <loot item="minecraft:bread" damage="0" weight="15" count_min="1" count_max="3"/>
+    <loot item="minecraft:iron_pickaxe" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="minecraft:rail" damage="0" weight="1" count_min="4" count_max="8"/>
+    <loot item="minecraft:melon_seeds" damage="0" weight="10" count_min="2" count_max="4"/>
+    <loot item="minecraft:pumpkin_seeds" damage="0" weight="10" count_min="2" count_max="4"/>
+    <loot item="minecraft:saddle" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="minecraft:iron_horse_armor" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="minecraft:enchanted_book" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="abyssalcraft:abyingot" damage="0" weight="3" count_min="1" count_max="3"/>
+    <loot item="abyssalcraft:cingot" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="ThermalFoundation:material" damage="64" weight="7" count_min="1" count_max="5"/>
+    <loot item="ThermalFoundation:material" damage="65" weight="7" count_min="1" count_max="5"/>
+    <loot item="abyssalcraft:crystal" damage="24" weight="8" count_min="1" count_max="5"/>
+    <loot item="abyssalcraft:shadowfragment" damage="0" weight="8" count_min="1" count_max="10"/>
+    <loot item="abyssalcraft:shadowshard" damage="0" weight="5" count_min="1" count_max="6"/>
+    <loot item="abyssalcraft:shadowgem" damage="0" weight="3" count_min="1" count_max="3"/>
+    <loot item="IC2:itemToolBronzePickaxe" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="IC2:itemTinCanFilled" damage="0" weight="8" count_min="4" count_max="16"/>
+    <loot item="IC2:itemShardIridium" damage="0" weight="8" count_min="2" count_max="5"/>
+    <loot item="ThermalFoundation:material" damage="64" weight="9" count_min="2" count_max="6"/>
+    <loot item="ThermalFoundation:material" damage="65" weight="8" count_min="1" count_max="5"/>
+    <loot item="Botania:blackLotus" damage="0" weight="6" count_min="1" count_max="1"/>
+    <loot item="Botania:overgrowthSeed" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="arsmagica2:rune" damage="17" weight="3" count_min="1" count_max="1"/>
+    <loot item="arsmagica2:rune" damage="18" weight="1" count_min="1" count_max="1"/>
+    <loot item="baublesstuff:Spell_Book" damage="0" weight="10" count_min="1" count_max="1"/>
+    <loot item="VillageNames:codex" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="chancecubes:Chance_Cube" damage="0" weight="5" count_min="1" count_max="2"/>
+    <loot item="chancecubes:Chance_Icosahedron" damage="0" weight="5" count_min="1" count_max="2"/>
+</LootGroup>

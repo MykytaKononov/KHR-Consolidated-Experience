@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LootGroup category="strongholdCrossing" loading_mode="OVERRIDE" count_min="1" count_max="5">
+    <loot item="minecraft:iron_ingot" damage="0" weight="10" count_min="1" count_max="5"/>
+    <loot item="minecraft:gold_ingot" damage="0" weight="5" count_min="1" count_max="3"/>
+    <loot item="minecraft:redstone" damage="0" weight="5" count_min="4" count_max="9"/>
+    <loot item="minecraft:coal" damage="0" weight="10" count_min="3" count_max="8"/>
+    <loot item="minecraft:bread" damage="0" weight="15" count_min="1" count_max="3"/>
+    <loot item="minecraft:apple" damage="0" weight="15" count_min="1" count_max="3"/>
+    <loot item="minecraft:iron_pickaxe" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="minecraft:enchanted_book" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="IC2:itemToolBronzePickaxe" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="IC2:itemOreIridium" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="IC2:itemShardIridium" damage="0" weight="4" count_min="3" count_max="7"/>
+    <loot item="IC2:itemToolBronzePickaxe" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="IC2:itemToolBronzeSword" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="IC2:itemArmorBronzeHelmet" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="IC2:itemArmorBronzeChestplate" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="IC2:itemArmorBronzeLegs" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="IC2:itemArmorBronzeBoots" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="ThermalFoundation:material" damage="64" weight="9" count_min="2" count_max="6"/>
+    <loot item="ThermalFoundation:material" damage="65" weight="8" count_min="1" count_max="5"/>
+    <loot item="arsmagica2:rune" damage="17" weight="3" count_min="1" count_max="1"/>
+    <loot item="arsmagica2:rune" damage="18" weight="1" count_min="1" count_max="1"/>
+    <loot item="VillageNames:codex" damage="0" weight="15" count_min="1" count_max="1"/>
+    <loot item="wizardry:spell_book" damage="0" weight="20" count_min="1" count_max="1"/>
+    <loot item="wizardry:magic_wand" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="wizardry:wizard_hat" damage="0" weight="6" count_min="1" count_max="1"/>
+    <loot item="wizardry:scroll" damage="0" weight="10" count_min="1" count_max="1"/>
+    <loot item="wizardry:condenser_upgrade" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="wizardry:magic_crystal" damage="0" weight="5" count_min="1" count_max="4"/>
+    <loot item="wizardry:arcane_tome" damage="1" weight="3" count_min="1" count_max="1"/>
+    <loot item="wizardry:arcane_tome" damage="2" weight="2" count_min="1" count_max="1"/>
+    <loot item="wizardry:arcane_tome" damage="3" weight="1" count_min="1" count_max="1"/>
+    <loot item="wizardry:armour_upgrade" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="wizardry:firebomb" damage="0" weight="4" count_min="1" count_max="5"/>
+    <loot item="wizardry:poison_bomb" damage="0" weight="4" count_min="1" count_max="5"/>
+    <loot item="wizardry:smoke_bomb" damage="0" weight="4" count_min="1" count_max="5"/>
+    <loot item="wizardry:identification_scroll" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="evilcraft:broom" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="evilcraft:originsOfDarkness" damage="0" weight="5" count_min="1" count_max="1"/>
+    <loot item="evilcraft:condensedBlood" damage="0" weight="10" count_min="5" count_max="32"/>
+    <loot item="evilcraft:garmonbozia" damage="0" weight="2" count_min="1" count_max="3"/>
+    <loot item="evilcraft:boxOfEternalClosure" damage="0" nbt="{playerName:&quot;Forgotten Player&quot;,spiritTag:{Attributes:[0:{Base:3.0d,Name:&quot;generic.maxHealth&quot;},1:{Base:0.0d,Name:&quot;generic.knockbackResistance&quot;},2:{Base:0.5d,Name:&quot;generic.movementSpeed&quot;},3:{Base:10.0d,Name:&quot;generic.followRange&quot;},4:{Base:4.0d,Name:&quot;generic.attackDamage&quot;}],Invulnerable:0b,PortalCooldown:0,AbsorptionAmount:0.0f,FallDistance:0.0f,DeathTime:0s,DropChances:[0:0.085f,1:0.085f,2:0.085f,3:0.085f,4:0.085f],PersistenceRequired:0b,isSwarm:0b,HealF:3.0f,id:&quot;vengeanceSpirit&quot;,playerId:&quot;bbb87dbe-690f-4205-bdc5-72ffb8ebc29d&quot;,Motion:[0:0.0d,1:0.0d,2:0.0d],Leashed:0b,UUIDLeast:-4818643652318316884L,Health:3s,playerName:&quot;Forgotten Player&quot;,Air:300s,OnGround:0b,Dimension:0,swarmTier:2,Rotation:[0:5.3045425f,1:0.0f],frozenDuration:0,UUIDMost:7480647979769285966L,Equipment:[0:{},1:{},2:{},3:{},4:{}],CustomName:&quot;&quot;,Pos:[0:0.0d,1:0.0d,2:0.0d],Fire:0s,CanPickUpLoot:0b,innerEntity:&quot;net.divinerpg.entities.arcana.EntityDeathHound&quot;,remainingLife:494,HurtTime:0s,buildupDuration:0,AttackTime:0s,CustomNameVisible:0b},playerId:&quot;bbb87dbe-690f-4205-bdc5-72ffb8ebc29d&quot;}" weight="1" count_min="1" count_max="1"/>
+    <loot item="evilcraft:boxOfEternalClosure" damage="0" nbt="{playerName:&quot;Forgotten Player&quot;,spiritTag:{Attributes:[0:{Base:3.0d,Name:&quot;generic.maxHealth&quot;},1:{Base:0.0d,Name:&quot;generic.knockbackResistance&quot;},2:{Base:0.5d,Name:&quot;generic.movementSpeed&quot;},3:{Base:10.0d,Name:&quot;generic.followRange&quot;},4:{Base:4.0d,Name:&quot;generic.attackDamage&quot;}],Invulnerable:0b,PortalCooldown:0,AbsorptionAmount:0.0f,FallDistance:0.0f,DeathTime:0s,DropChances:[0:0.085f,1:0.085f,2:0.085f,3:0.085f,4:0.085f],PersistenceRequired:0b,isSwarm:0b,HealF:3.0f,id:&quot;vengeanceSpirit&quot;,playerId:&quot;61699b2e-d327-4a01-9f1e-0ea8c3f06bc6&quot;,Motion:[0:0.0d,1:0.0d,2:0.0d],Leashed:0b,UUIDLeast:-5620494683332251795L,Health:3s,playerName:&quot;Forgotten Player&quot;,Air:300s,OnGround:0b,Dimension:0,swarmTier:4,Rotation:[0:2.0002768f,1:0.0f],frozenDuration:0,UUIDMost:-3286377501336580499L,Equipment:[0:{},1:{},2:{},3:{},4:{}],CustomName:&quot;&quot;,Pos:[0:0.0d,1:0.0d,2:0.0d],Fire:0s,CanPickUpLoot:0b,innerEntity:&quot;net.divinerpg.entities.iceika.EntityAlicanto&quot;,remainingLife:852,HurtTime:0s,buildupDuration:0,AttackTime:0s,CustomNameVisible:0b},playerId:&quot;61699b2e-d327-4a01-9f1e-0ea8c3f06bc6&quot;}" weight="1" count_min="1" count_max="1"/>
+    <loot item="evilcraft:boxOfEternalClosure" damage="0" nbt="{playerName:&quot;Forgotten Player&quot;,spiritTag:{Attributes:[0:{Base:3.0d,Name:&quot;generic.maxHealth&quot;},1:{Base:0.0d,Name:&quot;generic.knockbackResistance&quot;},2:{Base:0.5d,Name:&quot;generic.movementSpeed&quot;},3:{Base:10.0d,Name:&quot;generic.followRange&quot;},4:{Base:4.0d,Name:&quot;generic.attackDamage&quot;}],Invulnerable:0b,PortalCooldown:0,AbsorptionAmount:0.0f,FallDistance:0.0f,DeathTime:0s,DropChances:[0:0.085f,1:0.085f,2:0.085f,3:0.085f,4:0.085f],PersistenceRequired:0b,isSwarm:0b,HealF:3.0f,id:&quot;vengeanceSpirit&quot;,playerId:&quot;068d4de0-3a75-4c6a-9f01-8c37e16a394c&quot;,Motion:[0:0.0d,1:0.0d,2:0.0d],Leashed:0b,UUIDLeast:-8958863250486618134L,Health:3s,playerName:&quot;Forgotten Player&quot;,Air:300s,OnGround:0b,Dimension:0,swarmTier:0,Rotation:[0:4.747023f,1:0.0f],frozenDuration:0,UUIDMost:-478768234189667890L,Equipment:[0:{},1:{},2:{},3:{},4:{}],CustomName:&quot;&quot;,Pos:[0:0.0d,1:0.0d,2:0.0d],Fire:0s,CanPickUpLoot:0b,innerEntity:&quot;net.divinerpg.entities.vethea.EntityWreck&quot;,remainingLife:675,HurtTime:0s,buildupDuration:0,AttackTime:0s,CustomNameVisible:0b},playerId:&quot;068d4de0-3a75-4c6a-9f01-8c37e16a394c&quot;}" weight="1" count_min="1" count_max="1"/>
+    <loot item="evilcraft:boxOfEternalClosure" damage="0" nbt="{playerName:&quot;Forgotten Player&quot;,spiritTag:{Attributes:[0:{Base:3.0d,Name:&quot;generic.maxHealth&quot;},1:{Base:0.0d,Name:&quot;generic.knockbackResistance&quot;},2:{Base:0.5d,Name:&quot;generic.movementSpeed&quot;},3:{Base:10.0d,Name:&quot;generic.followRange&quot;},4:{Base:4.0d,Name:&quot;generic.attackDamage&quot;}],Invulnerable:0b,PortalCooldown:0,AbsorptionAmount:0.0f,FallDistance:0.0f,DeathTime:0s,DropChances:[0:0.085f,1:0.085f,2:0.085f,3:0.085f,4:0.085f],PersistenceRequired:0b,isSwarm:0b,HealF:3.0f,id:&quot;vengeanceSpirit&quot;,playerId:&quot;e1dc75c6-dcf9-4e0c-8fbf-9c6e5e44527c&quot;,Motion:[0:0.0d,1:0.0d,2:0.0d],Leashed:0b,UUIDLeast:-5890835498748481506L,Health:3s,playerName:&quot;Forgotten Player&quot;,Air:300s,OnGround:0b,Dimension:0,swarmTier:2,Rotation:[0:3.210339f,1:0.0f],frozenDuration:0,UUIDMost:2319868859930724718L,Equipment:[0:{},1:{},2:{},3:{},4:{}],CustomName:&quot;&quot;,Pos:[0:0.0d,1:0.0d,2:0.0d],Fire:0s,CanPickUpLoot:0b,innerEntity:&quot;com.emoniph.witchery.entity.EntityGoblin&quot;,remainingLife:532,HurtTime:0s,buildupDuration:0,AttackTime:0s,CustomNameVisible:0b},playerId:&quot;e1dc75c6-dcf9-4e0c-8fbf-9c6e5e44527c&quot;}" weight="1" count_min="1" count_max="1"/>
+    <loot item="evilcraft:boxOfEternalClosure" damage="0" nbt="{playerName:&quot;Forgotten Player&quot;,spiritTag:{Attributes:[0:{Base:3.0d,Name:&quot;generic.maxHealth&quot;},1:{Base:0.0d,Name:&quot;generic.knockbackResistance&quot;},2:{Base:0.5d,Name:&quot;generic.movementSpeed&quot;},3:{Base:10.0d,Name:&quot;generic.followRange&quot;},4:{Base:4.0d,Name:&quot;generic.attackDamage&quot;}],Invulnerable:0b,PortalCooldown:0,AbsorptionAmount:0.0f,FallDistance:0.0f,DeathTime:0s,DropChances:[0:0.085f,1:0.085f,2:0.085f,3:0.085f,4:0.085f],PersistenceRequired:0b,isSwarm:0b,HealF:3.0f,id:&quot;vengeanceSpirit&quot;,playerId:&quot;853c80ef-3c37-49fd-aa49-938b674adae6&quot;,Motion:[0:0.0d,1:0.0d,2:0.0d],Leashed:0b,UUIDLeast:-6655702965249194912L,Health:3s,playerName:&quot;Forgotten Player&quot;,Air:300s,OnGround:0b,Dimension:0,swarmTier:3,Rotation:[0:2.3075573f,1:0.0f],frozenDuration:0,UUIDMost:1656150926928136362L,Equipment:[0:{},1:{},2:{},3:{},4:{}],CustomName:&quot;&quot;,Pos:[0:0.0d,1:0.0d,2:0.0d],Fire:0s,CanPickUpLoot:0b,innerEntity:&quot;com.shinoow.abyssalcraft.common.entity.anti.EntityAntiPig&quot;,remainingLife:982,HurtTime:0s,buildupDuration:0,AttackTime:0s,CustomNameVisible:0b},playerId:&quot;853c80ef-3c37-49fd-aa49-938b674adae6&quot;}" weight="1" count_min="1" count_max="1"/>
+    <loot item="evilcraft:boxOfEternalClosure" damage="0" nbt="{playerName:&quot;Forgotten Player&quot;,spiritTag:{Attributes:[0:{Base:3.0d,Name:&quot;generic.maxHealth&quot;},1:{Base:0.0d,Name:&quot;generic.knockbackResistance&quot;},2:{Base:0.5d,Name:&quot;generic.movementSpeed&quot;},3:{Base:10.0d,Name:&quot;generic.followRange&quot;},4:{Base:4.0d,Name:&quot;generic.attackDamage&quot;}],Invulnerable:0b,PortalCooldown:0,AbsorptionAmount:0.0f,FallDistance:0.0f,DeathTime:0s,DropChances:[0:0.085f,1:0.085f,2:0.085f,3:0.085f,4:0.085f],PersistenceRequired:0b,isSwarm:0b,HealF:3.0f,id:&quot;vengeanceSpirit&quot;,playerId:&quot;3e13f558-fb72-4949-a842-07879924bc49&quot;,Motion:[0:0.0d,1:0.0d,2:0.0d],Leashed:0b,UUIDLeast:-8560763890135950547L,Health:3s,playerName:&quot;Forgotten Player&quot;,Air:300s,OnGround:0b,Dimension:0,swarmTier:3,Rotation:[0:5.115626f,1:0.0f],frozenDuration:0,UUIDMost:4071582151099566168L,Equipment:[0:{},1:{},2:{},3:{},4:{}],CustomName:&quot;&quot;,Pos:[0:0.0d,1:0.0d,2:0.0d],Fire:0s,CanPickUpLoot:0b,innerEntity:&quot;net.divinerpg.entities.vethea.EntityTempleGuardian&quot;,remainingLife:774,HurtTime:0s,buildupDuration:0,AttackTime:0s,CustomNameVisible:0b},playerId:&quot;3e13f558-fb72-4949-a842-07879924bc49&quot;}" weight="1" count_min="1" count_max="1"/>
+    <loot item="evilcraft:boxOfEternalClosure" damage="0" nbt="{playerName:&quot;Forgotten Player&quot;,spiritTag:{Attributes:[0:{Base:3.0d,Name:&quot;generic.maxHealth&quot;},1:{Base:0.0d,Name:&quot;generic.knockbackResistance&quot;},2:{Base:0.5d,Name:&quot;generic.movementSpeed&quot;},3:{Base:10.0d,Name:&quot;generic.followRange&quot;},4:{Base:4.0d,Name:&quot;generic.attackDamage&quot;}],Invulnerable:0b,PortalCooldown:0,AbsorptionAmount:0.0f,FallDistance:0.0f,DeathTime:0s,DropChances:[0:0.085f,1:0.085f,2:0.085f,3:0.085f,4:0.085f],PersistenceRequired:0b,isSwarm:0b,HealF:3.0f,id:&quot;vengeanceSpirit&quot;,playerId:&quot;b2faeaab-fc87-4f91-98d3-836024f268ae&quot;,Motion:[0:0.0d,1:0.0d,2:0.0d],Leashed:0b,UUIDLeast:-6938659572897703237L,Health:3s,playerName:&quot;Forgotten Player&quot;,Air:300s,OnGround:0b,Dimension:0,swarmTier:2,Rotation:[0:6.0416036f,1:0.0f],frozenDuration:0,UUIDMost:6814821697225181777L,Equipment:[0:{},1:{},2:{},3:{},4:{}],CustomName:&quot;&quot;,Pos:[0:0.0d,1:0.0d,2:0.0d],Fire:0s,CanPickUpLoot:0b,innerEntity:&quot;net.divinerpg.entities.twilight.EntityMadivel&quot;,remainingLife:661,HurtTime:0s,buildupDuration:0,AttackTime:0s,CustomNameVisible:0b},playerId:&quot;b2faeaab-fc87-4f91-98d3-836024f268ae&quot;}" weight="1" count_min="1" count_max="1"/>
+    <loot item="evilcraft:boxOfEternalClosure" damage="0" nbt="{playerName:&quot;Forgotten Player&quot;,spiritTag:{Attributes:[0:{Base:3.0d,Name:&quot;generic.maxHealth&quot;},1:{Base:0.0d,Name:&quot;generic.knockbackResistance&quot;},2:{Base:0.5d,Name:&quot;generic.movementSpeed&quot;},3:{Base:10.0d,Name:&quot;generic.followRange&quot;},4:{Base:4.0d,Name:&quot;generic.attackDamage&quot;}],Invulnerable:0b,PortalCooldown:0,AbsorptionAmount:0.0f,FallDistance:0.0f,DeathTime:0s,DropChances:[0:0.085f,1:0.085f,2:0.085f,3:0.085f,4:0.085f],PersistenceRequired:0b,isSwarm:0b,HealF:3.0f,id:&quot;vengeanceSpirit&quot;,playerId:&quot;0b7509f0-2458-4160-9ce1-2772b9a45ac2&quot;,Motion:[0:0.0d,1:0.0d,2:0.0d],Leashed:0b,UUIDLeast:-8530786428352355185L,Health:3s,playerName:&quot;Forgotten Player&quot;,Air:300s,OnGround:0b,Dimension:0,swarmTier:1,Rotation:[0:3.1978161f,1:0.0f],frozenDuration:0,UUIDMost:-2819453751257448213L,Equipment:[0:{},1:{},2:{},3:{},4:{}],CustomName:&quot;&quot;,Pos:[0:0.0d,1:0.0d,2:0.0d],Fire:0s,CanPickUpLoot:0b,innerEntity:&quot;net.divinerpg.entities.twilight.EntityVamacheron&quot;,remainingLife:739,HurtTime:0s,buildupDuration:0,AttackTime:0s,CustomNameVisible:0b},playerId:&quot;0b7509f0-2458-4160-9ce1-2772b9a45ac2&quot;}" weight="1" count_min="1" count_max="1"/>
+    <loot item="evilcraft:boxOfEternalClosure" damage="0" nbt="{playerName:&quot;Forgotten Player&quot;,spiritTag:{Attributes:[0:{Base:3.0d,Name:&quot;generic.maxHealth&quot;},1:{Base:0.0d,Name:&quot;generic.knockbackResistance&quot;},2:{Base:0.5d,Name:&quot;generic.movementSpeed&quot;},3:{Base:10.0d,Name:&quot;generic.followRange&quot;},4:{Base:4.0d,Name:&quot;generic.attackDamage&quot;}],Invulnerable:0b,PortalCooldown:0,AbsorptionAmount:0.0f,FallDistance:0.0f,DeathTime:0s,DropChances:[0:0.085f,1:0.085f,2:0.085f,3:0.085f,4:0.085f],PersistenceRequired:0b,isSwarm:0b,HealF:3.0f,id:&quot;vengeanceSpirit&quot;,playerId:&quot;b5c31e33-8224-4f96-a4bf-73721be9d2ec&quot;,Motion:[0:0.0d,1:0.0d,2:0.0d],Leashed:0b,UUIDLeast:-7123223247138165012L,Health:3s,playerName:&quot;Forgotten Player&quot;,Air:300s,OnGround:0b,Dimension:0,swarmTier:2,Rotation:[0:5.190894f,1:0.0f],frozenDuration:0,UUIDMost:8988962918278122983L,Equipment:[0:{},1:{},2:{},3:{},4:{}],CustomName:&quot;&quot;,Pos:[0:0.0d,1:0.0d,2:0.0d],Fire:0s,CanPickUpLoot:0b,innerEntity:&quot;net.divinerpg.entities.vanilla.EntityWildfire&quot;,remainingLife:990,HurtTime:0s,buildupDuration:0,AttackTime:0s,CustomNameVisible:0b},playerId:&quot;b5c31e33-8224-4f96-a4bf-73721be9d2ec&quot;}" weight="1" count_min="1" count_max="1"/>
+    <loot item="evilcraft:boxOfEternalClosure" damage="0" nbt="{playerName:&quot;Forgotten Player&quot;,spiritTag:{Attributes:[0:{Base:3.0d,Name:&quot;generic.maxHealth&quot;},1:{Base:0.0d,Name:&quot;generic.knockbackResistance&quot;},2:{Base:0.5d,Name:&quot;generic.movementSpeed&quot;},3:{Base:10.0d,Name:&quot;generic.followRange&quot;},4:{Base:4.0d,Name:&quot;generic.attackDamage&quot;}],Invulnerable:0b,PortalCooldown:0,AbsorptionAmount:0.0f,FallDistance:0.0f,DeathTime:0s,DropChances:[0:0.085f,1:0.085f,2:0.085f,3:0.085f,4:0.085f],PersistenceRequired:0b,isSwarm:0b,HealF:3.0f,id:&quot;vengeanceSpirit&quot;,playerId:&quot;069a79f4-44e9-4726-a5be-fca90e38aaf5&quot;,Motion:[0:0.0d,1:0.0d,2:0.0d],Leashed:0b,UUIDLeast:-7801249390360069019L,Health:3s,playerName:&quot;Forgotten Player&quot;,Air:300s,OnGround:0b,Dimension:0,swarmTier:4,Rotation:[0:2.8834884f,1:0.0f],frozenDuration:0,UUIDMost:3848060208442591709L,Equipment:[0:{},1:{},2:{},3:{},4:{}],CustomName:&quot;&quot;,Pos:[0:0.0d,1:0.0d,2:0.0d],Fire:0s,CanPickUpLoot:0b,innerEntity:&quot;net.divinerpg.entities.vethea.EntityVermenous&quot;,remainingLife:709,HurtTime:0s,buildupDuration:0,AttackTime:0s,CustomNameVisible:0b},playerId:&quot;069a79f4-44e9-4726-a5be-fca90e38aaf5&quot;}" weight="1" count_min="1" count_max="1"/>
+    <loot item="evilcraft:boxOfEternalClosure" damage="0" nbt="{playerName:&quot;Forgotten Player&quot;,spiritTag:{Attributes:[0:{Base:3.0d,Name:&quot;generic.maxHealth&quot;},1:{Base:0.0d,Name:&quot;generic.knockbackResistance&quot;},2:{Base:0.5d,Name:&quot;generic.movementSpeed&quot;},3:{Base:10.0d,Name:&quot;generic.followRange&quot;},4:{Base:4.0d,Name:&quot;generic.attackDamage&quot;}],Invulnerable:0b,PortalCooldown:0,AbsorptionAmount:0.0f,FallDistance:0.0f,DeathTime:0s,DropChances:[0:0.085f,1:0.085f,2:0.085f,3:0.085f,4:0.085f],PersistenceRequired:0b,isSwarm:0b,HealF:3.0f,id:&quot;vengeanceSpirit&quot;,playerId:&quot;777e7aa3-9373-4511-8d75-f99d23ebe252&quot;,Motion:[0:0.0d,1:0.0d,2:0.0d],Leashed:0b,UUIDLeast:-6621126988839666131L,Health:3s,playerName:&quot;Forgotten Player&quot;,Air:300s,OnGround:0b,Dimension:0,swarmTier:4,Rotation:[0:1.1656005f,1:0.0f],frozenDuration:0,UUIDMost:6848887382426012632L,Equipment:[0:{},1:{},2:{},3:{},4:{}],CustomName:&quot;&quot;,Pos:[0:0.0d,1:0.0d,2:0.0d],Fire:0s,CanPickUpLoot:0b,innerEntity:&quot;net.divinerpg.entities.vethea.EntityDissiment&quot;,remainingLife:995,HurtTime:0s,buildupDuration:0,AttackTime:0s,CustomNameVisible:0b},playerId:&quot;777e7aa3-9373-4511-8d75-f99d23ebe252&quot;}" weight="1" count_min="1" count_max="1"/>
+    <loot item="evilcraft:boxOfEternalClosure" damage="0" nbt="{spiritTag:{Attributes:[0:{Base:3.0d,Name:&quot;generic.maxHealth&quot;},1:{Base:0.0d,Name:&quot;generic.knockbackResistance&quot;},2:{Base:0.5d,Name:&quot;generic.movementSpeed&quot;},3:{Base:10.0d,Name:&quot;generic.followRange&quot;},4:{Base:4.0d,Name:&quot;generic.attackDamage&quot;}],Invulnerable:0b,PortalCooldown:0,AbsorptionAmount:0.0f,FallDistance:0.0f,DeathTime:0s,DropChances:[0:0.085f,1:0.085f,2:0.085f,3:0.085f,4:0.085f],PersistenceRequired:0b,isSwarm:1b,HealF:3.0f,id:&quot;vengeanceSpirit&quot;,playerId:&quot;&quot;,Motion:[0:0.0d,1:0.0d,2:0.0d],Leashed:0b,UUIDLeast:-6669800365050633255L,Health:3s,playerName:&quot;&quot;,Air:300s,OnGround:0b,Dimension:0,swarmTier:3,Rotation:[0:4.6997337f,1:0.0f],frozenDuration:0,UUIDMost:-8160979128028478874L,Equipment:[0:{},1:{},2:{},3:{},4:{}],CustomName:&quot;&quot;,Pos:[0:0.0d,1:0.0d,2:0.0d],Fire:0s,CanPickUpLoot:0b,remainingLife:356,HurtTime:0s,buildupDuration:0,AttackTime:0s,CustomNameVisible:0b}}" weight="3" count_min="1" count_max="1"/>
+    <loot item="arcticmobs:palesoup" damage="0" weight="6" count_min="1" count_max="6"/>
+    <loot item="arcticmobs:frostboltscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="arcticmobs:frostwebscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="arcticmobs:tundrascepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="arcticmobs:icefirescepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="arcticmobs:blizzardscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="demonmobs:devillasagna" damage="0" weight="6" count_min="1" count_max="6"/>
+    <loot item="demonmobs:doomfirescepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="demonmobs:hellfirescepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="demonmobs:devilstarscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="demonmobs:demoniclightningscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="desertmobs:ambercake" damage="0" weight="6" count_min="1" count_max="6"/>
+    <loot item="desertmobs:scythescepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="desertmobs:mudshotscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="forestmobs:paleosalad" damage="0" weight="6" count_min="1" count_max="6"/>
+    <loot item="forestmobs:lifedrainscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="freshwatermobs:lapisfishandchips" damage="0" weight="6" count_min="1" count_max="6"/>
+    <loot item="freshwatermobs:aquapulsescepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="infernomobs:searingtaco" damage="0" weight="6" count_min="1" count_max="6"/>
+    <loot item="infernomobs:emberscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="infernomobs:cinderfallsword" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="infernomobs:magmascepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="infernomobs:scorchfirescepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="junglemobs:tropicalcurry" damage="0" weight="6" count_min="1" count_max="6"/>
+    <loot item="junglemobs:poopscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="mountainmobs:boulderblastscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="mountainmobs:arcanelaserstormscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="mountainmobs:peakskebab" damage="0" weight="6" count_min="1" count_max="6"/>
+    <loot item="plainsmobs:bulwarkburger" damage="0" weight="6" count_min="1" count_max="6"/>
+    <loot item="saltwatermobs:seashellmaki" damage="0" weight="6" count_min="1" count_max="6"/>
+    <loot item="shadowmobs:spectralboltscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="shadowmobs:bloodleechscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="shadowmobs:bloodchili" damage="0" weight="6" count_min="1" count_max="6"/>
+    <loot item="swampmobs:mosspie" damage="0" weight="6" count_min="1" count_max="6"/>
+    <loot item="swampmobs:poisonrayscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="swampmobs:venomshotscepter" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="swampmobs:venomaxeblade" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="NuclearCraft:fishAndRicecake" damage="0" weight="4" count_min="4" count_max="5"/>
+    <loot item="NuclearCraft:toughAlloyPaxel" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="NuclearCraft:dUPaxel" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="NuclearCraft:AmRTG" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="NuclearCraft:parts" damage="9" weight="2" count_min="2" count_max="4"/>
+    <loot item="NuclearCraft:recordPractice" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="NuclearCraft:recordArea51" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="NuclearCraft:recordNeighborhood" damage="0" weight="4" count_min="1" count_max="1"/>
+    <loot item="NuclearCraft:parts" damage="16" weight="8" count_min="4" count_max="8"/>
+    <loot item="NuclearCraft:parts" damage="17" weight="8" count_min="4" count_max="8"/>
+    <loot item="NuclearCraft:parts" damage="0" weight="8" count_min="4" count_max="8"/>
+    <loot item="NuclearCraft:parts" damage="4" weight="8" count_min="4" count_max="8"/>
+    <loot item="IC2:itemPlates" damage="6" weight="8" count_min="6" count_max="8"/>
+    <loot item="HardcoreEnderExpansion:temple_caller" damage="0" weight="1" count_min="0" count_max="1"/>
+    <loot item="HardcoreEnderExpansion:knowledge_note" damage="0" weight="9" count_min="1" count_max="1"/>
+    <loot item="chococraft:Chocopedia" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="ChromatiCraft:chromaticraft_item_fragment" damage="0" weight="10" count_min="1" count_max="3"/>
+    <loot item="RotaryCraft:rotarycraft_item_shaftcraft" damage="9" weight="20" count_min="8" count_max="24"/>
+    <loot item="RotaryCraft:rotarycraft_item_shaftcraft" damage="10" weight="20" count_min="1" count_max="8"/>
+    <loot item="RotaryCraft:rotarycraft_item_compacts" damage="2" weight="10" count_min="1" count_max="2"/>
+    <loot item="PneumaticCraft:stopWorm" damage="0" weight="10" count_min="1" count_max="4"/>
+    <loot item="PneumaticCraft:nukeVirus" damage="0" weight="10" count_min="1" count_max="4"/>
+    <loot item="QuarryPlus:magicmirror" damage="0" weight="9" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemLootBag" damage="0" weight="4" count_min="1" count_max="3"/>
+    <loot item="Thaumcraft:ItemResource" damage="2" weight="4" count_min="1" count_max="3"/>
+    <loot item="Thaumcraft:ItemResource" damage="6" weight="4" count_min="1" count_max="3"/>
+    <loot item="Thaumcraft:ItemLootBag" damage="1" weight="3" count_min="1" count_max="2"/>
+    <loot item="Thaumcraft:ItemBaubleBlanks" damage="0" weight="3" count_min="1" count_max="2"/>
+    <loot item="Thaumcraft:ItemBaubleBlanks" damage="1" weight="3" count_min="1" count_max="2"/>
+    <loot item="Thaumcraft:ItemBaubleBlanks" damage="2" weight="3" count_min="1" count_max="2"/>
+    <loot item="Thaumcraft:ItemResource" damage="9" weight="3" count_min="1" count_max="2"/>
+    <loot item="Thaumcraft:ItemLootBag" damage="2" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemThaumonomicon" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemSwordThaumium" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemPickThaumium" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemAxeThaumium" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemHoeThaumium" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemRingRunic" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemBaubleBlanks" damage="3" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemBaubleBlanks" damage="4" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemBaubleBlanks" damage="5" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemBaubleBlanks" damage="6" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemBaubleBlanks" damage="7" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemBaubleBlanks" damage="8" weight="1" count_min="1" count_max="1"/>
+    <loot item="Thaumcraft:ItemAmuletVis" damage="0" nbt="{aqua:100,terra:200,ignis:0,ordo:400,perditio:200,aer:100}" weight="1" count_min="1" count_max="1"/>
+    <loot item="ExtraUtilities:divisionSigil" damage="0" weight="7" count_min="1" count_max="1"/>
+    <loot item="etfuturum:beetroot_seeds" damage="0" weight="5" count_min="1" count_max="2"/>
+    <loot item="Automagy:baubleEnderDisjunction" damage="1" weight="1" count_min="1" count_max="1"/>
+    <loot item="Automagy:phialExtra" damage="0" weight="3" count_min="1" count_max="3"/>
+    <loot item="ThaumicConcilium:ItemResource" damage="3" weight="4" count_min="1" count_max="1"/>
+</LootGroup>

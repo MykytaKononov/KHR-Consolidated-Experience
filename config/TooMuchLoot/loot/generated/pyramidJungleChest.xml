@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LootGroup category="pyramidJungleChest" loading_mode="OVERRIDE" count_min="2" count_max="7">
+    <loot item="minecraft:diamond" damage="0" weight="3" count_min="1" count_max="3"/>
+    <loot item="minecraft:iron_ingot" damage="0" weight="10" count_min="1" count_max="5"/>
+    <loot item="minecraft:gold_ingot" damage="0" weight="15" count_min="2" count_max="7"/>
+    <loot item="minecraft:emerald" damage="0" weight="2" count_min="1" count_max="3"/>
+    <loot item="minecraft:bone" damage="0" weight="20" count_min="4" count_max="6"/>
+    <loot item="minecraft:rotten_flesh" damage="0" weight="16" count_min="3" count_max="7"/>
+    <loot item="minecraft:saddle" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="minecraft:iron_horse_armor" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="minecraft:golden_horse_armor" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="minecraft:diamond_horse_armor" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="minecraft:enchanted_book" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="IC2:itemToolBronzePickaxe" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="IC2:itemToolBronzeSword" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="IC2:itemArmorBronzeHelmet" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="IC2:itemArmorBronzeChestplate" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="IC2:itemArmorBronzeLegs" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="IC2:itemArmorBronzeBoots" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="ThermalFoundation:material" damage="64" weight="9" count_min="2" count_max="6"/>
+    <loot item="ThermalFoundation:material" damage="65" weight="8" count_min="1" count_max="5"/>
+    <loot item="Botania:blackLotus" damage="0" weight="6" count_min="1" count_max="1"/>
+    <loot item="Botania:overgrowthSeed" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="arsmagica2:rune" damage="17" weight="3" count_min="1" count_max="1"/>
+    <loot item="arsmagica2:rune" damage="18" weight="1" count_min="1" count_max="1"/>
+    <loot item="VillageNames:codex" damage="0" weight="10" count_min="1" count_max="1"/>
+    <loot item="Calculator:InfoCalculator" damage="0" weight="10" count_min="1" count_max="1"/>
+</LootGroup>

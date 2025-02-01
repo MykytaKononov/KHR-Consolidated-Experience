@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "HIROMISHIYA",
+      "uniqueId": "a1c292ec-d487-4edb-b1a4-06bf7a784d40"
+    },
+    "time": 1723456996522,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\Nikit\\curseforge\\minecraft\\Instances\\khk ce test\\config\\profile-2024-08-12_12.03.16.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "HIROMISHIYA",
+      "uniqueId": "a1c292ec-d487-4edb-b1a4-06bf7a784d40"
+    },
+    "time": 1723456762676,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\Nikit\\curseforge\\minecraft\\Instances\\khk ce test\\config\\heapsummary-2024-08-12_11.59.22.sparkheap"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "HIROMISHIYA",
+      "uniqueId": "a1c292ec-d487-4edb-b1a4-06bf7a784d40"
+    },
+    "time": 1723370275259,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\Nikit\\curseforge\\minecraft\\Instances\\KHK Consolidated Experience\\config\\profile-2024-08-11_11.57.55.sparkprofile"
+    }
+  }
+]
