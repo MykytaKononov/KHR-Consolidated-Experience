@@ -1,0 +1,11 @@
+mods/DrZharks[[:space:]]MoCreatures[[:space:]]Mod[[:space:]]v6.3.1.zip filter=lfs diff=lfs merge=lfs -text
+mods/ChromatiCraft[[:space:]]1.7.10[[:space:]]V33a.jar filter=lfs diff=lfs merge=lfs -text
+mods/HBM-NTM-.1.0.27_X5226_H261.jar filter=lfs diff=lfs merge=lfs -text
+mods/TheBetweenlands-1.0.7-universal.jar filter=lfs diff=lfs merge=lfs -text
+mods/Nevermine-Tslat-1.0.1.jar filter=lfs diff=lfs merge=lfs -text
+mods/Alfheim-60.jar filter=lfs diff=lfs merge=lfs -text
+mods/tropicraftv6_0_5[[:space:]]for[[:space:]]MC[[:space:]]v1_7_10.zip filter=lfs diff=lfs merge=lfs -text
+mods/LycanitesMobsComplete[[:space:]]1.13.0.5[[:space:]][1.7.10].jar filter=lfs diff=lfs merge=lfs -text
+mods/AM2.5-LTS-1.6.7.jar filter=lfs diff=lfs merge=lfs -text
+mods/LOTRMod[[:space:]]v36.15.jar filter=lfs diff=lfs merge=lfs -text
+mods/gtnhlib-0.6.2.jar filter=lfs diff=lfs merge=lfs -text
