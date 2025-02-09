@@ -753,7 +753,21 @@
         ["item","hbm:item.casing",1,1],
         null,
         null,
-        ["dict","dustAnySmokeless",2],
+        ["dict","dustAnySmokeless",3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,58],
+      "input": [
+        null,
+        ["item","hbm:item.ball_dynamite"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["item","hbm:item.rocket_fuel"],
         null
       ]
     },
@@ -767,7 +781,21 @@
         ["item","hbm:item.casing",1,1],
         null,
         null,
-        ["dict","dustAnySmokeless",2],
+        ["dict","dustAnySmokeless",3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,59],
+      "input": [
+        ["dict","plateCopper"],
+        ["dict","ingotAnyHighexplosive"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["item","hbm:item.rocket_fuel"],
         null
       ]
     },
@@ -781,7 +809,21 @@
         ["item","hbm:item.casing",1,1],
         null,
         null,
-        ["dict","dustAnySmokeless",2],
+        ["dict","dustAnySmokeless",3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,60],
+      "input": [
+        null,
+        ["dict","ingotAnyHighexplosive",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["item","hbm:item.rocket_fuel"],
         null
       ]
     },
@@ -795,7 +837,21 @@
         ["item","hbm:item.casing",1,1],
         null,
         null,
-        ["dict","dustAnySmokeless",2],
+        ["dict","dustAnySmokeless",3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,61],
+      "input": [
+        ["dict","container1000diesel"],
+        ["item","hbm:item.ball_dynamite"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["item","hbm:item.rocket_fuel"],
         null
       ]
     },
@@ -809,7 +865,21 @@
         ["item","hbm:item.casing",1,1],
         null,
         null,
-        ["dict","dustAnySmokeless",2],
+        ["dict","dustAnySmokeless",3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,62],
+      "input": [
+        ["dict","ingotWhitePhosphorus"],
+        ["dict","ingotAnyHighexplosive"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["item","hbm:item.rocket_fuel"],
         null
       ]
     },

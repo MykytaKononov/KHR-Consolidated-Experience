@@ -119,6 +119,36 @@
         ["item","hbm:item.item_secret",4,2]
       ],
       "extra": "FULL_MOON"
+    },
+    {
+      "output": ["hbm:item.ammo_secret"],
+      "input": [
+        ["dict","ingotStarmetal"],
+        ["item","hbm:item.powder_magic"],
+        ["dict","ingotStarmetal"],
+        ["item","hbm:item.powder_magic"],
+        ["item","hbm:tile.moon_turf"],
+        ["item","hbm:item.powder_magic"],
+        ["dict","ingotStarmetal"],
+        ["item","hbm:item.powder_magic"],
+        ["dict","ingotStarmetal"]
+      ],
+      "extra": "FULL_MOON"
+    },
+    {
+      "output": ["hbm:item.ammo_secret",1,1],
+      "input": [
+        ["dict","ingotStarmetal"],
+        ["item","hbm:item.powder_magic"],
+        ["dict","ingotStarmetal"],
+        ["item","hbm:item.powder_magic"],
+        ["item","hbm:item.ammo_standard",4,75],
+        ["item","hbm:item.powder_magic"],
+        ["dict","ingotStarmetal"],
+        ["item","hbm:item.powder_magic"],
+        ["dict","ingotStarmetal"]
+      ],
+      "extra": "FULL_MOON"
     }
   ]
 }

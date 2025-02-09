@@ -596,9 +596,10 @@
     },
     {
       "input": ["item","hbm:item.crystal_aluminium"],
-      "output1": ["Aluminum",432],
+      "output1": ["Aluminum",144],
       "output2": ["Iron",144],
       "byproducts": [
+        ["hbm:item.chunk_ore",4,2],
         ["hbm:item.powder_lithium_tiny",3]
       ],
       "duration": 600
@@ -781,15 +782,19 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2858],
-      "output1": ["Aluminum",2304],
+      "output1": ["Slag",144],
       "byproducts": [
+        ["hbm:item.bedrock_ore_fragment",64,2903],
         ["hbm:item.bedrock_ore",1,3370]
       ],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3370],
-      "output1": ["Aluminum",768],
+      "output1": ["Slag",144],
+      "byproducts": [
+        ["hbm:item.bedrock_ore_fragment",64,2903]
+      ],
       "duration": 20
     },
     {

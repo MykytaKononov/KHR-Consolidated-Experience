@@ -1,12 +1,6 @@
 {
   "recipes": [
     {
-      "input": "UNSATURATEDS",
-      "acid": ["NONE",0],
-      "output1": ["AROMATICS",70],
-      "output2": ["PETROLEUM",30]
-    },
-    {
       "input": "CHLOROMETHANE",
       "acid": ["NONE",0],
       "output1": ["UNSATURATEDS",75],
@@ -23,6 +17,12 @@
       "acid": ["SULFURIC_ACID",50],
       "output1": ["LIGHTOIL",50],
       "output2": ["PEROXIDE",20]
+    },
+    {
+      "input": "UNSATURATEDS",
+      "acid": ["NONE",0],
+      "output1": ["AROMATICS",70],
+      "output2": ["PETROLEUM",30]
     }
   ]
 }

@@ -371,8 +371,8 @@
     {
       "input": ["dict","oreAluminum"],
       "output": [
-        ["hbm:item.powder_aluminium"],
-        ["hbm:item.powder_aluminium"],
+        ["hbm:item.chunk_ore",2,2],
+        ["hbm:item.powder_titanium"],
         ["hbm:item.powder_iron"],
         ["minecraft:gravel"]
       ]
@@ -417,7 +417,7 @@
     {
       "input": ["item","hbm:item.bedrock_ore",1,4390],
       "output": [
-        ["hbm:item.bedrock_ore_fragment",12,1300],
+        ["hbm:item.bedrock_ore_fragment",12,2903],
         ["hbm:item.bedrock_ore",1,3366]
       ]
     },
@@ -525,7 +525,7 @@
     {
       "input": ["item","hbm:item.bedrock_ore",1,5376],
       "output": [
-        ["hbm:item.bedrock_ore_fragment",6,1300],
+        ["hbm:item.bedrock_ore_fragment",6,2902],
         ["hbm:item.bedrock_ore",1,3328]
       ]
     },
@@ -697,8 +697,8 @@
     {
       "input": ["item","hbm:item.crystal_aluminium"],
       "output": [
-        ["hbm:item.powder_aluminium",2],
-        ["hbm:item.powder_aluminium",2],
+        ["hbm:item.chunk_ore",3,2],
+        ["hbm:item.powder_titanium"],
         ["hbm:item.powder_iron"],
         ["hbm:item.powder_lithium_tiny"]
       ]
@@ -897,7 +897,7 @@
     {
       "input": ["item","hbm:item.bedrock_ore",1,2602],
       "output": [
-        ["hbm:item.bedrock_ore_fragment",24,1300],
+        ["hbm:item.bedrock_ore_fragment",24,2903],
         ["hbm:item.bedrock_ore",1,3370]
       ]
     },
@@ -2525,7 +2525,7 @@
     {
       "input": ["item","hbm:item.bedrock_ore",1,2090],
       "output": [
-        ["hbm:item.bedrock_ore_fragment",24,1300],
+        ["hbm:item.bedrock_ore_fragment",24,2903],
         ["hbm:item.bedrock_ore",1,3370]
       ]
     },
@@ -4363,7 +4363,7 @@
     {
       "input": ["item","hbm:item.bedrock_ore",1,1578],
       "output": [
-        ["hbm:item.bedrock_ore_fragment",24,1300],
+        ["hbm:item.bedrock_ore_fragment",24,2903],
         ["hbm:item.bedrock_ore",1,3370]
       ]
     },
@@ -6433,7 +6433,7 @@
     {
       "input": ["item","hbm:item.bedrock_ore",1,1066],
       "output": [
-        ["hbm:item.bedrock_ore_fragment",24,1300]
+        ["hbm:item.bedrock_ore_fragment",24,2903]
       ]
     },
     {
@@ -7302,15 +7302,15 @@
     {
       "input": ["item","hbm:item.bedrock_ore",1,2858],
       "output": [
-        ["hbm:item.bedrock_ore_fragment",24,1300],
-        ["hbm:item.bedrock_ore_fragment",24,1300],
+        ["hbm:item.bedrock_ore_fragment",24,2903],
+        ["hbm:item.bedrock_ore_fragment",24,2903],
         ["hbm:item.bedrock_ore",1,3370]
       ]
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,810],
       "output": [
-        ["hbm:item.bedrock_ore_fragment",24,1300]
+        ["hbm:item.bedrock_ore_fragment",24,2903]
       ]
     },
     {

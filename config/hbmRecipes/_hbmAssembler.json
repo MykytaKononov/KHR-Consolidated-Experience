@@ -324,6 +324,17 @@
       "duration": 200
     },
     {
+      "output": ["hbm:tile.pa_detector"],
+      "input": [
+        ["item","hbm:tile.pa_beamline",3],
+        ["dict","plateTripleSteel",24],
+        ["dict","wireDenseGold",16],
+        ["dict","ingotAnyHardPlastic",16],
+        ["item","hbm:item.circuit",4,18]
+      ],
+      "duration": 400
+    },
+    {
       "output": ["hbm:item.solinium_igniter"],
       "input": [
         ["dict","plateTitanium",4],
@@ -538,7 +549,7 @@
         ["dict","plateSextupleTungsten",8],
         ["item","hbm:item.motor_bismuth"],
         ["dict","ingotAnyHardPlastic",8],
-        ["item","hbm:item.circuit",1,10],
+        ["item","hbm:item.circuit",4,10],
         ["dict","ntmpipeDuraSteel",8]
       ],
       "duration": 400
@@ -599,7 +610,7 @@
         ["item","hbm:item.motor_desh",2],
         ["item","hbm:item.coil_advanced_alloy",8],
         ["dict","ingotAnyHardPlastic",8],
-        ["item","hbm:item.circuit",1,10],
+        ["item","hbm:item.circuit",2,10],
         ["dict","ntmpipeCopper",4]
       ],
       "duration": 400
@@ -617,6 +628,16 @@
         ["item","hbm:item.coil_tungsten",24],
         ["dict","ntmpipeSteel",8],
         ["item","hbm:item.circuit",16,9]
+      ],
+      "duration": 400
+    },
+    {
+      "output": ["hbm:tile.pa_quadrupole"],
+      "input": [
+        ["item","hbm:tile.pa_beamline"],
+        ["dict","plateTripleSteel",16],
+        ["dict","ingotAnyHardPlastic",16],
+        ["item","hbm:item.circuit",1,12]
       ],
       "duration": 400
     },
@@ -689,13 +710,6 @@
         ["dict","dyeGray",8]
       ],
       "duration": 300
-    },
-    {
-      "output": ["hbm:item.pellet_canister",2],
-      "input": [
-        ["dict","ingotIron",3]
-      ],
-      "duration": 50
     },
     {
       "output": ["hbm:tile.turret_friendly"],
@@ -1349,11 +1363,10 @@
     {
       "output": ["hbm:item.magnetron"],
       "input": [
-        ["dict","plateAdvancedAlloy",3],
-        ["dict","wireFineTungsten"],
-        ["item","hbm:item.coil_tungsten"]
+        ["dict","plateCopper",3],
+        ["dict","wireFineTungsten",4]
       ],
-      "duration": 100
+      "duration": 40
     },
     {
       "output": ["hbm:item.drillbit",1,7],
@@ -1671,6 +1684,13 @@
         ["dict","wireDenseNeodymium",4]
       ],
       "duration": 200
+    },
+    {
+      "output": ["hbm:item.pa_coil"],
+      "input": [
+        ["dict","wireDenseGold",128]
+      ],
+      "duration": 400
     },
     {
       "output": ["hbm:item.grenade_zomg"],
@@ -2000,6 +2020,24 @@
       "duration": 500
     },
     {
+      "output": ["hbm:tile.pa_dipole"],
+      "input": [
+        ["item","hbm:tile.pa_beamline",2],
+        ["dict","plateTripleSteel",16],
+        ["dict","ingotAnyHardPlastic",32],
+        ["item","hbm:item.circuit",4,12]
+      ],
+      "duration": 400
+    },
+    {
+      "output": ["hbm:item.pa_coil",1,1],
+      "input": [
+        ["dict","wireDenseNiobium",64],
+        ["dict","wireDenseTitanium",64]
+      ],
+      "duration": 400
+    },
+    {
       "output": ["hbm:item.mp_fuselage_10_long_solid"],
       "input": [
         ["item","hbm:item.seg_10",2],
@@ -2140,6 +2178,17 @@
         ["item","hbm:item.coil_gold",4]
       ],
       "duration": 250
+    },
+    {
+      "output": ["hbm:tile.pa_rfc"],
+      "input": [
+        ["item","hbm:tile.pa_beamline",3],
+        ["dict","plateTripleSteel",16],
+        ["dict","plateCopper",64],
+        ["dict","ingotAnyHardPlastic",16],
+        ["item","hbm:item.magnetron",16]
+      ],
+      "duration": 400
     },
     {
       "output": ["hbm:tile.machine_exposure_chamber"],
@@ -2319,6 +2368,14 @@
       "duration": 500
     },
     {
+      "output": ["hbm:item.pa_coil",1,2],
+      "input": [
+        ["dict","wireDenseBSCCO",64],
+        ["dict","ingotAnyPlastic",64]
+      ],
+      "duration": 400
+    },
+    {
       "output": ["hbm:item.drill_titanium"],
       "input": [
         ["dict","ingotSteel",2],
@@ -2494,6 +2551,14 @@
       "duration": 500
     },
     {
+      "output": ["hbm:item.pa_coil",1,3],
+      "input": [
+        ["dict","wireDenseCopper",128],
+        ["item","hbm:item.powder_chlorophyte",16]
+      ],
+      "duration": 400
+    },
+    {
       "output": ["hbm:item.heavy_component",1,2900],
       "input": [
         ["dict","plateTripleCopper",256]
@@ -2532,14 +2597,6 @@
         ["dict","ingotDesh",6]
       ],
       "duration": 500
-    },
-    {
-      "output": ["hbm:item.pellet_chlorophyte",2],
-      "input": [
-        ["item","hbm:item.powder_chlorophyte"],
-        ["dict","nuggetLead",12]
-      ],
-      "duration": 50
     },
     {
       "output": ["hbm:item.heavy_component",1,42],
@@ -3477,6 +3534,17 @@
       "duration": 50
     },
     {
+      "output": ["hbm:tile.pa_source"],
+      "input": [
+        ["item","hbm:tile.pa_beamline",3],
+        ["dict","plateTripleSteel",16],
+        ["dict","ingotAnyHardPlastic",16],
+        ["item","hbm:item.magnetron",16],
+        ["item","hbm:item.circuit",1,18]
+      ],
+      "duration": 400
+    },
+    {
       "output": ["hbm:tile.machine_excavator"],
       "input": [
         ["item","minecraft:stonebrick",8],
@@ -3641,15 +3709,17 @@
       "duration": 100
     },
     {
-      "output": ["hbm:tile.machine_rtg_furnace_off"],
+      "output": ["hbm:tile.machine_htrf4"],
       "input": [
-        ["item","minecraft:furnace"],
-        ["item","hbm:item.rtg_unit",3],
-        ["dict","plateLead",6],
-        ["dict","plateTungCar",4],
-        ["dict","plateCopper",2]
+        ["dict","plateTripleSaturnite",8],
+        ["dict","boltDuraSteel",16],
+        ["dict","plateSextupleTungsten",8],
+        ["item","hbm:item.motor_bismuth"],
+        ["dict","ingotAnyHardPlastic",8],
+        ["item","hbm:item.circuit",1,12],
+        ["item","hbm:tile.fusion_conductor",24]
       ],
-      "duration": 150
+      "duration": 400
     },
     {
       "output": ["hbm:item.sat_foeq"],
@@ -3702,6 +3772,15 @@
         ["dict","dustLithium",12]
       ],
       "duration": 100
+    },
+    {
+      "output": ["hbm:tile.pa_beamline"],
+      "input": [
+        ["dict","plateTripleSteel",8],
+        ["dict","plateCopper",16],
+        ["dict","wireDenseGold",4]
+      ],
+      "duration": 200
     },
     {
       "output": ["hbm:item.chopper_blades"],
