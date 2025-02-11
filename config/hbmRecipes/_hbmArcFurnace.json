@@ -4496,284 +4496,16 @@
       "fluid": [["Titanium",216]]
     },
     {
-      "input": ["item","etfuturum:nether_gold_ore"],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_cobalt",1,32767],
-      "solid": ["hbm:item.ingot_cobalt"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_emerald",1,32767],
-      "solid": ["minecraft:emerald"]
-    },
-    {
-      "input": ["item","exnihilo:ender_tin_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.tin_ingot"]
-    },
-    {
-      "input": ["item","Magneticraft:item.dustBrass"],
-      "solid": ["Magneticraft:item.ingotBrass"]
-    },
-    {
-      "input": ["item","exnihilo:copper_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.copper_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_lapis",1,32767],
-      "solid": ["minecraft:dye",1,4]
-    },
-    {
-      "input": ["item","exnihilo:ender_silver_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.silver_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_aluminium",1,32767],
-      "solid": ["hbm:item.chunk_ore",1,2]
-    },
-    {
-      "input": ["item","hbm:tile.ore_quartz",1,32767],
-      "solid": ["minecraft:quartz"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_nickel",1,32767],
-      "solid": ["hbm:item.ingot_nickel"]
-    },
-    {
-      "input": ["item","hbm:item.powder_dura_steel",1,32767],
-      "solid": ["hbm:item.ingot_dura_steel"]
-    },
-    {
-      "input": ["item","hbm:item.powder_combine_steel",1,32767],
-      "solid": ["hbm:item.ingot_combine_steel"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_australium",1,32767],
-      "solid": ["hbm:item.nugget_australium"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_lanthanium",1,32767],
-      "solid": ["hbm:item.ingot_lanthanium"]
-    },
-    {
-      "input": ["item","libVulpes:libVulpesore0",1,9],
-      "solid": ["libVulpes:libVulpesproductingot",1,9]
-    },
-    {
-      "input": ["item","ElectriCraft:electricraft_block_ore"],
-      "solid": ["ElectriCraft:electricraft_item_ingots"]
-    },
-    {
-      "input": ["item","ElectriCraft:electricraft_block_ore",1,1],
-      "solid": ["ElectriCraft:electricraft_item_ingots",1,1]
-    },
-    {
-      "input": ["item","ElectriCraft:electricraft_block_ore",1,2],
-      "solid": ["ElectriCraft:electricraft_item_ingots",1,2]
-    },
-    {
-      "input": ["item","ElectriCraft:electricraft_block_ore",1,3],
-      "solid": ["ElectriCraft:electricraft_item_ingots",1,3]
-    },
-    {
-      "input": ["item","ElectriCraft:electricraft_block_ore",1,4],
-      "solid": ["ElectriCraft:electricraft_item_ingots",1,4]
-    },
-    {
-      "input": ["item","ElectriCraft:electricraft_block_ore",1,5],
-      "solid": ["ElectriCraft:electricraft_item_ingots",1,5]
-    },
-    {
-      "input": ["item","hbm:tile.ore_gneiss_uranium_scorched",1,32767],
-      "solid": ["hbm:item.ingot_uranium"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_beryllium",1,32767],
-      "solid": ["hbm:item.ingot_beryllium"]
-    },
-    {
-      "input": ["item","ProjRed|Exploration:projectred.exploration.ore"],
-      "solid": ["ProjRed|Core:projectred.core.part",1,37]
-    },
-    {
-      "input": ["item","ProjRed|Exploration:projectred.exploration.ore",1,1],
-      "solid": ["ProjRed|Core:projectred.core.part",1,38]
-    },
-    {
-      "input": ["item","ProjRed|Exploration:projectred.exploration.ore",1,2],
-      "solid": ["ProjRed|Core:projectred.core.part",1,39]
-    },
-    {
-      "input": ["item","ProjRed|Exploration:projectred.exploration.ore",1,3],
-      "solid": ["ProjRed|Core:projectred.core.part",1,52]
-    },
-    {
-      "input": ["item","ProjRed|Exploration:projectred.exploration.ore",1,4],
-      "solid": ["ProjRed|Core:projectred.core.part",1,53]
-    },
-    {
-      "input": ["item","ProjRed|Exploration:projectred.exploration.ore",1,5],
-      "solid": ["ProjRed|Core:projectred.core.part",1,54]
-    },
-    {
-      "input": ["item","ProjRed|Exploration:projectred.exploration.ore",1,6],
-      "solid": ["ProjRed|Core:projectred.core.part",1,56]
-    },
-    {
-      "input": ["item","GalacticraftMars:item.itemBasicAsteroids",1,3],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_tungsten",1,32767],
-      "solid": ["hbm:item.ingot_tungsten"]
-    },
-    {
-      "input": ["item","exnihilo:silver_dust",1,32767],
-      "solid": ["exnihilo:exnihilo.silver_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_uranium_scorched",1,32767],
-      "solid": ["hbm:item.ingot_uranium"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_lead",1,32767],
-      "solid": ["hbm:item.ingot_lead"]
-    },
-    {
-      "input": ["item","hbm:tile.sand_polonium"],
-      "solid": ["hbm:tile.glass_polonium"]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,8],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,9],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,15],
-      "solid": ["NuclearCraft:material"]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,16],
-      "solid": ["NuclearCraft:material",1,1]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,17],
-      "solid": ["NuclearCraft:material",1,2]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,18],
-      "solid": ["NuclearCraft:material",1,3]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,19],
-      "solid": ["NuclearCraft:material",1,4]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,20],
-      "solid": ["NuclearCraft:material",1,5]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,21],
-      "solid": ["NuclearCraft:material",1,6]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,22],
-      "solid": ["NuclearCraft:material",1,7]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,44],
-      "solid": ["NuclearCraft:material",1,42]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,45],
-      "solid": ["NuclearCraft:material",1,43]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,51],
-      "solid": ["NuclearCraft:material",1,50]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,53],
-      "solid": ["NuclearCraft:material",1,4]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,72],
-      "solid": ["NuclearCraft:material",1,71]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,77],
-      "solid": ["NuclearCraft:material",1,76]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,79],
-      "solid": ["NuclearCraft:material",1,78]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,81],
-      "solid": ["NuclearCraft:material",1,80]
-    },
-    {
-      "input": ["item","NuclearCraft:material",1,126],
-      "solid": ["NuclearCraft:material",1,5]
-    },
-    {
-      "input": ["item","hbm:item.powder_sr90",1,32767],
-      "solid": ["hbm:item.ingot_sr90"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_copper",1,32767],
+      "input": ["item","hbm:item.powder_copper",1,32767],
       "solid": ["hbm:item.ingot_copper"]
     },
     {
-      "input": ["item","Mekanism:RawOsmiumOre"],
-      "solid": ["Mekanism:Ingot",1,1]
+      "input": ["item","exnihilo:nether_copper_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.copper_ingot"]
     },
     {
-      "input": ["item","exnihilo:tin_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.tin_ingot"]
-    },
-    {
-      "input": ["item","exnihilo:iron_gravel",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_niobium",1,32767],
-      "solid": ["hbm:item.ingot_niobium"]
-    },
-    {
-      "input": ["item","exnihilo:nickel_dust",1,32767],
-      "solid": ["exnihilo:exnihilo.nickel_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_gneiss_schrabidium",1,32767],
-      "solid": ["hbm:item.ingot_schrabidium"]
-    },
-    {
-      "input": ["item","abyssalcraft:abygolore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","exnihilo:silver_sand",1,32767],
-      "solid": ["exnihilo:exnihilo.silver_ingot"]
-    },
-    {
-      "input": ["item","minecraft:netherrack",1,32767],
-      "solid": ["minecraft:netherbrick"]
-    },
-    {
-      "input": ["item","hbm:tile.waste_trinitite_red"],
-      "solid": ["hbm:tile.glass_trinitite"]
-    },
-    {
-      "input": ["item","hbm:item.powder_tungsten",1,32767],
-      "solid": ["hbm:item.ingot_tungsten"]
-    },
-    {
-      "input": ["item","Magneticraft:cobble_limestone",1,32767],
-      "solid": ["Magneticraft:limestone"]
+      "input": ["item","hbm:item.powder_beryllium",1,32767],
+      "solid": ["hbm:item.ingot_beryllium"]
     },
     {
       "input": ["item","RotaryCraft:rotarycraft_item_extracts",1,32],
@@ -4786,6 +4518,42 @@
     {
       "input": ["item","RotaryCraft:rotarycraft_item_extracts",1,26],
       "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","exnihilo:copper_sand",1,32767],
+      "solid": ["exnihilo:exnihilo.copper_ingot"]
+    },
+    {
+      "input": ["item","erebus:amber"],
+      "solid": ["erebus:amber",1,1]
+    },
+    {
+      "input": ["item","erebus:oreIron"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","goodnightsleep:zitrite_ore",1,32767],
+      "solid": ["goodnightsleep:zitrite_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_nether_cobalt",1,32767],
+      "solid": ["hbm:item.ingot_cobalt"]
+    },
+    {
+      "input": ["item","GalaxySpace:europablocks",1,5],
+      "solid": ["GalacticraftCore:item.basicItem",1,5]
+    },
+    {
+      "input": ["item","Aquaculture:item.loot",1,13],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","exnihilo:platinum_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.platinum_ingot"]
+    },
+    {
+      "input": ["item","ExtraPlanets:tile.eris",1,3],
+      "solid": ["minecraft:iron_ingot"]
     },
     {
       "input": ["item","ReactorCraft:reactorcraft_block_ore",1,1],
@@ -4824,236 +4592,16 @@
       "solid": ["ReactorCraft:reactorcraft_item_raw",1,7]
     },
     {
-      "input": ["item","Magneticraft:zinc_ore"],
-      "solid": ["Magneticraft:item.ingotZinc"]
+      "input": ["item","GalacticraftCore:tile.gcBlockCore",1,7],
+      "solid": ["GalacticraftCore:item.basicItem",1,5]
     },
     {
-      "input": ["item","hbm:item.powder_beryllium",1,32767],
-      "solid": ["hbm:item.ingot_beryllium"]
+      "input": ["item","exnihilo:tin_dust",1,32767],
+      "solid": ["exnihilo:exnihilo.tin_ingot"]
     },
     {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,3],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots"]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,7],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,1]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,11],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,2]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,15],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,3]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,143],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots"]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,19],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,4]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,147],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,1]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,275],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,10]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,151],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,2]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,27],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,6]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,155],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,3]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,283],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,7]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,31],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,7]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,159],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,4]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,287],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,71]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,291],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,72]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,167],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,41]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,43],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,10]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,171],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,42]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,175],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,43]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,303],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,63]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,179],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,43]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,183],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,45]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,311],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,46]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,187],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,46]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,191],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,47]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,319],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,79]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,199],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,49]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,203],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,50]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,331],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,82]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,207],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,51]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,347],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,86]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,355],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,88]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,359],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,89]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,119],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,123],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,255],
-      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,63]
-    },
-    {
-      "input": ["item","Calculator:EnrichedGold",1,32767],
-      "solid": ["Calculator:EnrichedGoldIngot"]
-    },
-    {
-      "input": ["item","hbm:item.crystal_osmiridium",1,32767],
-      "solid": ["hbm:item.ingot_osmiridium"]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_shaftcraft",1,10],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_australium",1,32767],
-      "solid": ["hbm:item.ingot_australium"]
-    },
-    {
-      "input": ["item","exnihilo:platinum_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.platinum_ingot"]
-    },
-    {
-      "input": ["item","exnihilo:aluminum_gravel",1,32767],
+      "input": ["item","exnihilo:aluminum_dust",1,32767],
       "solid": ["exnihilo:exnihilo.aluminum_ingot"]
-    },
-    {
-      "input": ["item","erebus:oreLapis"],
-      "solid": ["minecraft:dye",1,4]
-    },
-    {
-      "input": ["item","hbm:item.powder_euphemium",1,32767],
-      "solid": ["hbm:item.ingot_euphemium"]
-    },
-    {
-      "input": ["item","GalaxySpace:proximabblocks",1,5],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","exnihilo:gold_dust",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.scrap_plastic",1,32767],
-      "solid": ["hbm:item.ingot_polymer"]
-    },
-    {
-      "input": ["item","hbm:item.ingot_rubber"],
-      "solid": ["MineFactoryReloaded:plastic.raw"]
-    },
-    {
-      "input": ["item","ExtraPlanets:oberon",1,3],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_nether_plutonium",1,32767],
-      "solid": ["hbm:item.ingot_plutonium"]
-    },
-    {
-      "input": ["item","exnihilo:silver_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.silver_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_redstone",1,32767],
-      "solid": ["minecraft:redstone"]
-    },
-    {
-      "input": ["item","erebus:oreDiamond"],
-      "solid": ["minecraft:diamond"]
-    },
-    {
-      "input": ["item","ExtraPlanets:iapetus",1,3],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_polymer",1,32767],
-      "solid": ["hbm:item.ingot_polymer"]
     },
     {
       "input": ["item","Mekanism:DeepslateOreBlock"],
@@ -5068,180 +4616,80 @@
       "solid": ["Mekanism:Ingot",1,6]
     },
     {
-      "input": ["item","netherlicious:NetherGoldOre"],
+      "input": ["item","Magneticraft:item.dust"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","Magneticraft:item.dust",1,1],
       "solid": ["minecraft:gold_ingot"]
     },
     {
-      "input": ["item","IC2:itemDust",1,4],
-      "solid": ["minecraft:gold_ingot"]
+      "input": ["item","Magneticraft:item.dust",1,2],
+      "solid": ["Magneticraft:item.ingotCopper"]
     },
     {
-      "input": ["item","IC2:itemDust",1,5],
-      "solid": ["minecraft:iron_ingot"]
+      "input": ["item","Magneticraft:item.dust",1,4],
+      "solid": ["Magneticraft:item.ingotTungsten"]
     },
     {
-      "input": ["item","TwilightForest:item.shardCluster",1,32767],
-      "solid": ["TwilightForest:item.knightMetal"]
+      "input": ["item","Magneticraft:item.dust",1,8],
+      "solid": ["hbm:item.ingot_th232"]
     },
     {
-      "input": ["item","hbm:item.powder_cobalt",1,32767],
-      "solid": ["hbm:item.ingot_cobalt"]
+      "input": ["item","Magneticraft:item.dust",1,12],
+      "solid": ["Magneticraft:item.ingotZinc"]
     },
     {
-      "input": ["item","hbm:tile.ore_plutonium",1,32767],
-      "solid": ["hbm:item.ingot_plutonium"]
+      "input": ["item","Magneticraft:item.dust",1,13],
+      "solid": ["TConstruct:materials",1,11]
     },
     {
-      "input": ["item","ExtraPlanets:titania",1,3],
-      "solid": ["minecraft:iron_ingot"]
+      "input": ["item","Magneticraft:item.dust",1,16],
+      "solid": ["Mekanism:Ingot",1,1]
     },
     {
-      "input": ["item","exnihilo:osmium_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.osmium_ingot"]
+      "input": ["item","Magneticraft:item.dust",1,17],
+      "solid": ["hbm:item.ingot_bismuth"]
     },
     {
-      "input": ["item","hbm:tile.ore_nether_tungsten",1,32767],
-      "solid": ["hbm:item.ingot_tungsten"]
+      "input": ["item","Magneticraft:item.dust",1,20],
+      "solid": ["hbm:item.lithium"]
     },
     {
-      "input": ["item","ExtraPlanets:tile.kepler22b",1,2],
-      "solid": ["minecraft:iron_ingot"]
+      "input": ["item","lotr:item.redClayBall",1,32767],
+      "solid": ["minecraft:brick"]
     },
     {
-      "input": ["item","exnihilo:osmium_dust",1,32767],
-      "solid": ["exnihilo:exnihilo.osmium_ingot"]
+      "input": ["item","Mekanism:OreBlock"],
+      "solid": ["Mekanism:Ingot",1,1]
     },
     {
-      "input": ["item","exnihilo:iron_dust",1,32767],
-      "solid": ["minecraft:iron_ingot"]
+      "input": ["item","Mekanism:OreBlock",1,1],
+      "solid": ["Mekanism:Ingot",1,5]
     },
     {
-      "input": ["item","minecraft:golden_boots",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_zinc",1,32767],
-      "solid": ["hbm:item.ingot_zinc"]
-    },
-    {
-      "input": ["item","hbm:item.powder_au198",1,32767],
-      "solid": ["hbm:item.ingot_au198"]
-    },
-    {
-      "input": ["item","ExtraPlanets:tile.neptune",1,3],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","exnihilo:aluminum_dust",1,32767],
-      "solid": ["exnihilo:exnihilo.aluminum_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.sand_lead"],
-      "solid": ["hbm:tile.glass_lead"]
-    },
-    {
-      "input": ["item","Mariculture:rocks",1,1],
-      "solid": ["Mariculture:materials",1,4]
-    },
-    {
-      "input": ["item","RotaryCraft:rotarycraft_item_powders",1,8],
-      "solid": ["RotaryCraft:rotarycraft_item_compacts",1,4]
-    },
-    {
-      "input": ["item","hbm:item.powder_neptunium",1,32767],
-      "solid": ["hbm:item.ingot_neptunium"]
-    },
-    {
-      "input": ["item","GalacticraftMars:tile.asteroidsBlock",1,3],
-      "solid": ["GalacticraftCore:item.basicItem",1,5]
-    },
-    {
-      "input": ["item","GalacticraftMars:tile.asteroidsBlock",1,5],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","Mekanism:OtherDust",1,1],
-      "solid": ["Mekanism:Ingot",1,4]
-    },
-    {
-      "input": ["item","exnihilo:nether_iron_gravel",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_platnium",1,32767],
-      "solid": ["hbm:item.ingot_platnium"]
-    },
-    {
-      "input": ["item","erebus:oreGneiss"],
-      "solid": ["erebus:materials",1,48]
-    },
-    {
-      "input": ["item","hbm:tile.ore_gold",1,32767],
-      "solid": ["minecraft:gold_ingot"]
+      "input": ["item","Mekanism:OreBlock",1,2],
+      "solid": ["Mekanism:Ingot",1,6]
     },
     {
       "input": ["item","thebetweenlands:syrmoriteOre"],
       "solid": ["thebetweenlands:unknownGeneric",1,14]
     },
     {
-      "input": ["item","exnihilo:lead_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.lead_ingot"]
+      "input": ["item","hbm:item.powder_schrabidium",1,32767],
+      "solid": ["hbm:item.ingot_schrabidium"]
     },
     {
-      "input": ["item","ImmersiveEngineering:ore",1,1],
-      "solid": ["ImmersiveEngineering:metal",1,1]
+      "input": ["item","alfheim:AlfheimThaumOre"],
+      "solid": ["Thaumcraft:ItemResource",1,3]
     },
     {
-      "input": ["item","exnihilo:nether_nickel_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.nickel_ingot"]
+      "input": ["item","alfheim:AlfheimThaumOre",1,7],
+      "solid": ["Thaumcraft:ItemResource",1,6]
     },
     {
-      "input": ["item","arsmagica2:vinteumOre"],
-      "solid": ["arsmagica2:itemOre"]
-    },
-    {
-      "input": ["item","arsmagica2:vinteumOre",1,1],
-      "solid": ["arsmagica2:itemOre",1,4]
-    },
-    {
-      "input": ["item","arsmagica2:vinteumOre",1,2],
-      "solid": ["arsmagica2:itemOre",1,5]
-    },
-    {
-      "input": ["item","arsmagica2:vinteumOre",1,3],
-      "solid": ["arsmagica2:itemOre",1,7]
-    },
-    {
-      "input": ["item","arsmagica2:vinteumOre",1,4],
-      "solid": ["arsmagica2:itemOre",1,6]
-    },
-    {
-      "input": ["item","hbm:item.combine_scrap",1,32767],
-      "solid": ["hbm:item.ingot_combine_steel"]
-    },
-    {
-      "input": ["item","hbm:item.powder_uranium",1,32767],
-      "solid": ["hbm:item.ingot_uranium"]
-    },
-    {
-      "input": ["item","exnihilo:platinum_sand",1,32767],
-      "solid": ["exnihilo:exnihilo.platinum_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_gallium",1,32767],
-      "solid": ["hbm:item.ingot_gallium"]
-    },
-    {
-      "input": ["item","minecraft:iron_leggings",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_gneiss_uranium",1,32767],
-      "solid": ["hbm:item.ingot_uranium"]
-    },
-    {
-      "input": ["item","Mariculture:limestone"],
-      "solid": ["Mariculture:limestone",1,1]
+      "input": ["item","Magneticraft:copper_ore"],
+      "solid": ["Magneticraft:item.ingotCopper"]
     },
     {
       "input": ["item","fp:dust",1,3840],
@@ -5608,476 +5056,292 @@
       "solid": ["hbm:item.ingot_schraranium"]
     },
     {
-      "input": ["item","hbm:item.powder_plutonium",1,32767],
-      "solid": ["hbm:item.ingot_plutonium"]
+      "input": ["item","hbm:tile.sand_uranium"],
+      "solid": ["hbm:tile.glass_uranium"]
     },
     {
-      "input": ["item","hbm:item.powder_zinc",1,32767],
-      "solid": ["hbm:item.ingot_zinc"]
+      "input": ["item","thebetweenlands:octineOre"],
+      "solid": ["thebetweenlands:unknownGeneric",1,15]
     },
     {
-      "input": ["item","erebus:oreEncrustedDiamond"],
-      "solid": ["erebus:encrustedDiamond"]
+      "input": ["item","ProjRed|Core:projectred.core.part",1,40],
+      "solid": ["ProjRed|Core:projectred.core.part",1,10]
     },
     {
-      "input": ["item","exnihilo:ender_platinum_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.platinum_ingot"]
+      "input": ["item","ProjRed|Core:projectred.core.part",1,57],
+      "solid": ["ProjRed|Core:projectred.core.part",1,55]
     },
     {
-      "input": ["item","hbm:item.ball_resin",1,32767],
-      "solid": ["hbm:item.ingot_biorubber"]
-    },
-    {
-      "input": ["item","hbm:item.powder_actinium",1,32767],
-      "solid": ["hbm:item.ingot_actinium"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_iron",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","alfheim:ElvenOre"],
-      "solid": ["Botania:manaResource",1,9]
-    },
-    {
-      "input": ["item","alfheim:ElvenOre",1,1],
-      "solid": ["Botania:manaResource",1,7]
-    },
-    {
-      "input": ["item","alfheim:ElvenOre",1,2],
-      "solid": ["Botania:quartz",1,5]
-    },
-    {
-      "input": ["item","alfheim:ElvenOre",1,3],
+      "input": ["item","netherlicious:NetherGoldOre"],
       "solid": ["minecraft:gold_ingot"]
     },
     {
-      "input": ["item","alfheim:ElvenOre",1,4],
-      "solid": ["alfheim:ElvenItems",1,14]
-    },
-    {
-      "input": ["item","alfheim:ElvenOre",1,5],
+      "input": ["item","erebus:oreLapis"],
       "solid": ["minecraft:dye",1,4]
     },
     {
-      "input": ["item","exnihilo:platinum_dust",1,32767],
-      "solid": ["exnihilo:exnihilo.platinum_ingot"]
-    },
-    {
-      "input": ["item","exnihilo:nickel_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.nickel_ingot"]
-    },
-    {
-      "input": ["item","IC2:itemCrushedOre"],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","IC2:itemCrushedOre",1,2],
+      "input": ["item","etfuturum:nether_gold_ore"],
       "solid": ["minecraft:gold_ingot"]
     },
     {
-      "input": ["item","hbm:tile.ore_gneiss_copper",1,32767],
-      "solid": ["hbm:item.ingot_copper"]
-    },
-    {
-      "input": ["item","hbm:item.powder_lanthanium",1,32767],
-      "solid": ["hbm:item.ingot_lanthanium"]
-    },
-    {
-      "input": ["item","hbm:item.powder_bismuth",1,32767],
-      "solid": ["hbm:item.ingot_bismuth"]
-    },
-    {
-      "input": ["item","hbm:item.powder_boron",1,32767],
-      "solid": ["hbm:item.ingot_boron"]
-    },
-    {
-      "input": ["item","Magneticraft:item.dust"],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","Magneticraft:item.dust",1,1],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","Magneticraft:item.dust",1,2],
-      "solid": ["Magneticraft:item.ingotCopper"]
-    },
-    {
-      "input": ["item","Magneticraft:item.dust",1,4],
-      "solid": ["Magneticraft:item.ingotTungsten"]
-    },
-    {
-      "input": ["item","Magneticraft:item.dust",1,8],
-      "solid": ["hbm:item.ingot_th232"]
-    },
-    {
-      "input": ["item","Magneticraft:item.dust",1,12],
-      "solid": ["Magneticraft:item.ingotZinc"]
-    },
-    {
-      "input": ["item","Magneticraft:item.dust",1,13],
-      "solid": ["TConstruct:materials",1,11]
-    },
-    {
-      "input": ["item","Magneticraft:item.dust",1,16],
-      "solid": ["Mekanism:Ingot",1,1]
-    },
-    {
-      "input": ["item","Magneticraft:item.dust",1,17],
-      "solid": ["hbm:item.ingot_bismuth"]
-    },
-    {
-      "input": ["item","Magneticraft:item.dust",1,20],
-      "solid": ["hbm:item.lithium"]
-    },
-    {
-      "input": ["item","hbm:item.powder_steel",1,32767],
-      "solid": ["hbm:item.ingot_steel"]
-    },
-    {
-      "input": ["item","hbm:item.powder_lithium",1,32767],
-      "solid": ["hbm:item.lithium"]
-    },
-    {
-      "input": ["item","exnihilo:osmium_sand",1,32767],
-      "solid": ["exnihilo:exnihilo.osmium_ingot"]
-    },
-    {
-      "input": ["item","exnihilo:copper_dust",1,32767],
-      "solid": ["exnihilo:exnihilo.copper_ingot"]
-    },
-    {
-      "input": ["item","minecraft:iron_boots",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_schrabidium",1,32767],
-      "solid": ["hbm:item.ingot_schrabidium"]
-    },
-    {
-      "input": ["item","goodnightsleep:rainbow_ore",1,32767],
-      "solid": ["goodnightsleep:rainbow_ingot"]
-    },
-    {
-      "input": ["item","TConstruct:GravelOre"],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","TConstruct:GravelOre",1,1],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","TConstruct:GravelOre",1,4],
-      "solid": ["TConstruct:materials",1,11]
-    },
-    {
-      "input": ["item","hbm:tile.ore_gneiss_gold",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","libVulpes:libVulpesproductdust",1,1],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","libVulpes:libVulpesproductdust",1,2],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","libVulpes:libVulpesproductdust",1,9],
-      "solid": ["libVulpes:libVulpesproductingot",1,9]
-    },
-    {
-      "input": ["item","hbm:item.powder_copper",1,32767],
-      "solid": ["hbm:item.ingot_copper"]
-    },
-    {
-      "input": ["item","minecraft:golden_leggings",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_polonium",1,32767],
-      "solid": ["hbm:item.ingot_polonium"]
-    },
-    {
-      "input": ["item","minecraft:golden_chestplate",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_niobium",1,32767],
-      "solid": ["hbm:item.ingot_niobium"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_uranium",1,32767],
-      "solid": ["hbm:item.ingot_uranium"]
-    },
-    {
-      "input": ["item","minecraft:iron_chestplate",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","lotr:item.redClayBall",1,32767],
-      "solid": ["minecraft:brick"]
-    },
-    {
-      "input": ["item","hbm:item.crystal_nickel",1,32767],
-      "solid": ["hbm:item.ingot_nickel"]
-    },
-    {
-      "input": ["item","hbm:item.powder_magnetized_tungsten",1,32767],
-      "solid": ["hbm:item.ingot_magnetized_tungsten"]
-    },
-    {
-      "input": ["item","exnihilo:lead_sand",1,32767],
-      "solid": ["exnihilo:exnihilo.lead_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_gneiss_lithium",1,32767],
-      "solid": ["hbm:item.lithium"]
-    },
-    {
-      "input": ["item","Aquaculture:item.loot",1,13],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","exnihilo:iron_sand",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","ExtraPlanets:tile.rhea",1,3],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_schrabidate",1,32767],
-      "solid": ["hbm:item.ingot_schrabidate"]
-    },
-    {
-      "input": ["item","exnihilo:gold_gravel",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","minecraft:iron_helmet",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","erebus:oreJade"],
-      "solid": ["erebus:materials",1,1]
-    },
-    {
-      "input": ["item","hbm:item.crystal_niobium",1,32767],
-      "solid": ["hbm:item.ingot_niobium"]
+      "input": ["item","exnihilo:silver_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.silver_ingot"]
     },
     {
       "input": ["item","netherlicious:NetherIronOre"],
       "solid": ["minecraft:iron_ingot"]
     },
     {
-      "input": ["item","netherlicious:EfrineOre"],
-      "solid": ["netherlicious:Ingot"]
+      "input": ["item","exnihilo:tin_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.tin_ingot"]
     },
     {
-      "input": ["item","atum:tile.ironOre",1,32767],
-      "solid": ["minecraft:iron_ingot"]
+      "input": ["item","hbm:item.powder_lithium",1,32767],
+      "solid": ["hbm:item.lithium"]
     },
     {
-      "input": ["item","hbm:tile.gravel_obsidian"],
-      "solid": ["minecraft:obsidian"]
-    },
-    {
-      "input": ["item","ActuallyAdditions:itemDust"],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","ActuallyAdditions:itemDust",1,1],
+      "input": ["item","exnihilo:gold_gravel",1,32767],
       "solid": ["minecraft:gold_ingot"]
     },
     {
-      "input": ["item","IC2:itemPurifiedCrushedOre"],
+      "input": ["item","hbm:item.powder_sr90",1,32767],
+      "solid": ["hbm:item.ingot_sr90"]
+    },
+    {
+      "input": ["item","exnihilo:iron_gravel",1,32767],
       "solid": ["minecraft:iron_ingot"]
     },
     {
-      "input": ["item","IC2:itemPurifiedCrushedOre",1,2],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","alfheim:AlfheimThaumOre"],
-      "solid": ["Thaumcraft:ItemResource",1,3]
-    },
-    {
-      "input": ["item","alfheim:AlfheimThaumOre",1,7],
-      "solid": ["Thaumcraft:ItemResource",1,6]
-    },
-    {
-      "input": ["item","hbm:tile.ore_nether_schrabidium",1,32767],
-      "solid": ["hbm:item.ingot_schrabidium"]
-    },
-    {
-      "input": ["item","erebus:amber"],
-      "solid": ["erebus:amber",1,1]
-    },
-    {
-      "input": ["item","ImmersiveEngineering:metal",1,8],
+      "input": ["item","RotaryCraft:rotarycraft_item_shaftcraft",1,10],
       "solid": ["minecraft:iron_ingot"]
     },
     {
-      "input": ["item","ImmersiveEngineering:metal",1,9],
-      "solid": ["minecraft:gold_ingot"]
+      "input": ["item","hbm:tile.ore_lanthanium",1,32767],
+      "solid": ["hbm:item.ingot_lanthanium"]
     },
     {
-      "input": ["item","ImmersiveEngineering:metal",1,11],
-      "solid": ["ImmersiveEngineering:metal",1,1]
+      "input": ["item","hbm:item.powder_australium",1,32767],
+      "solid": ["hbm:item.ingot_australium"]
     },
     {
-      "input": ["item","GardenStuff:wrought_iron_ingot"],
-      "solid": ["minecraft:iron_ingot"]
+      "input": ["item","hbm:tile.ore_tungsten",1,32767],
+      "solid": ["hbm:item.ingot_tungsten"]
     },
     {
-      "input": ["item","GalaxySpace:barnardacores",1,1],
-      "solid": ["minecraft:iron_ingot"]
+      "input": ["item","hbm:item.scrap_plastic",1,32767],
+      "solid": ["hbm:item.ingot_polymer"]
     },
     {
-      "input": ["item","GalaxySpace:barnardacores",1,2],
-      "solid": ["minecraft:gold_ingot"]
+      "input": ["item","exnihilo:osmium_sand",1,32767],
+      "solid": ["exnihilo:exnihilo.osmium_ingot"]
     },
     {
-      "input": ["item","GalaxySpace:barnardacores",1,9],
-      "solid": ["GalacticraftCore:item.basicItem",1,5]
-    },
-    {
-      "input": ["item","hbm:item.powder_tcalloy",1,32767],
-      "solid": ["hbm:item.ingot_tcalloy"]
-    },
-    {
-      "input": ["item","hbm:item.powder_gold",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_tantalium",1,32767],
-      "solid": ["hbm:item.ingot_tantalium"]
-    },
-    {
-      "input": ["item","TConstruct:SearedBrick",1,5],
-      "solid": ["TConstruct:materials",1,11]
-    },
-    {
-      "input": ["item","erebus:oreIron"],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_desh",1,32767],
-      "solid": ["hbm:item.ingot_desh"]
-    },
-    {
-      "input": ["item","ThermalFoundation:material"],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","ThermalFoundation:material",1,1],
-      "solid": ["minecraft:gold_ingot"]
+      "input": ["item","hbm:tile.ore_cobalt",1,32767],
+      "solid": ["hbm:item.ingot_cobalt"]
     },
     {
       "input": ["item","erebus:oreEmerald"],
       "solid": ["minecraft:emerald"]
     },
     {
-      "input": ["item","exnihilo:ender_lead_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.lead_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_calcium",1,32767],
-      "solid": ["hbm:item.ingot_calcium"]
-    },
-    {
-      "input": ["item","GalacticraftMars:tile.mars",1,2],
-      "solid": ["GalacticraftMars:item.null",1,2]
-    },
-    {
-      "input": ["item","GalacticraftMars:tile.mars",1,3],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","lotr:tile.oreSilver",1,32767],
-      "solid": ["lotr:item.silver"]
-    },
-    {
-      "input": ["item","EnderIO:itemPowderIngot",1,1],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","EnderIO:itemPowderIngot",1,2],
+      "input": ["item","GalaxySpace:proximabblocks",1,5],
       "solid": ["minecraft:gold_ingot"]
     },
     {
-      "input": ["item","hbm:item.powder_zirconium",1,32767],
-      "solid": ["hbm:item.ingot_zirconium"]
+      "input": ["item","hbm:tile.waste_trinitite"],
+      "solid": ["hbm:tile.glass_trinitite"]
     },
     {
-      "input": ["item","exnihilo:tin_dust",1,32767],
-      "solid": ["exnihilo:exnihilo.tin_ingot"]
+      "input": ["item","hbm:item.crystal_osmiridium",1,32767],
+      "solid": ["hbm:item.ingot_osmiridium"]
     },
     {
-      "input": ["item","Mekanism:Dust"],
+      "input": ["item","Mariculture:rocks",1,1],
+      "solid": ["Mariculture:materials",1,4]
+    },
+    {
+      "input": ["item","ExtraPlanets:tile.kepler22b",1,2],
       "solid": ["minecraft:iron_ingot"]
     },
     {
-      "input": ["item","Mekanism:Dust",1,1],
-      "solid": ["minecraft:gold_ingot"]
+      "input": ["item","exnihilo:nickel_sand",1,32767],
+      "solid": ["exnihilo:exnihilo.nickel_ingot"]
     },
     {
-      "input": ["item","Mekanism:Dust",1,2],
-      "solid": ["Mekanism:Ingot",1,1]
-    },
-    {
-      "input": ["item","Mekanism:Dust",1,3],
-      "solid": ["Mekanism:Ingot",1,5]
-    },
-    {
-      "input": ["item","Mekanism:Dust",1,4],
-      "solid": ["Mekanism:Ingot",1,6]
-    },
-    {
-      "input": ["item","hbm:item.powder_red_copper",1,32767],
-      "solid": ["hbm:item.ingot_red_copper"]
-    },
-    {
-      "input": ["item","TConstruct:materials",1,40],
-      "solid": ["TConstruct:materials",1,11]
-    },
-    {
-      "input": ["item","hbm:tile.ore_gneiss_iron",1,32767],
+      "input": ["item","minecraft:iron_leggings",1,32767],
       "solid": ["minecraft:iron_ingot"]
     },
     {
-      "input": ["item","exnihilo:gold_sand",1,32767],
-      "solid": ["minecraft:gold_ingot"]
+      "input": ["item","TwilightForest:item.shardCluster",1,32767],
+      "solid": ["TwilightForest:item.knightMetal"]
     },
     {
-      "input": ["item","hbm:tile.ore_diamond",1,32767],
-      "solid": ["minecraft:diamond"]
+      "input": ["item","minecraft:iron_ore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
     },
     {
-      "input": ["item","hbm:tile.gravel_diamond"],
-      "solid": ["minecraft:diamond"]
+      "input": ["item","hbm:tile.ore_titanium",1,32767],
+      "solid": ["hbm:item.ingot_titanium"]
     },
     {
-      "input": ["item","hbm:item.powder_schrabidium",1,32767],
-      "solid": ["hbm:item.ingot_schrabidium"]
+      "input": ["item","TaintedMagic:BlockShadowOre",1,32767],
+      "solid": ["TaintedMagic:ItemMaterial"]
     },
     {
-      "input": ["item","hbm:tile.ash_digamma"],
-      "solid": ["hbm:tile.glass_ash"]
+      "input": ["item","hbm:item.powder_desh",1,32767],
+      "solid": ["hbm:item.ingot_desh"]
     },
     {
-      "input": ["item","hbm:item.powder_dineutronium",1,32767],
-      "solid": ["hbm:item.ingot_dineutronium"]
+      "input": ["item","hbm:item.arc_electrode_burnt"],
+      "solid": ["hbm:item.ingot_graphite"]
+    },
+    {
+      "input": ["item","hbm:item.arc_electrode_burnt",1,1],
+      "solid": ["hbm:item.ingot_lanthanium"]
+    },
+    {
+      "input": ["item","hbm:item.arc_electrode_burnt",1,2],
+      "solid": ["hbm:item.ingot_desh"]
+    },
+    {
+      "input": ["item","hbm:item.arc_electrode_burnt",1,3],
+      "solid": ["hbm:item.ingot_saturnite"]
     },
     {
       "input": ["item","hbm:tile.sand_boron"],
       "solid": ["hbm:tile.glass_boron"]
     },
     {
-      "input": ["item","exnihilo:lead_dust",1,32767],
-      "solid": ["exnihilo:exnihilo.lead_ingot"]
+      "input": ["item","ExtraPlanets:iapetus",1,3],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","Magneticraft:cobble_limestone",1,32767],
+      "solid": ["Magneticraft:limestone"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_quartz",1,32767],
+      "solid": ["minecraft:quartz"]
+    },
+    {
+      "input": ["item","exnihilo:platinum_sand",1,32767],
+      "solid": ["exnihilo:exnihilo.platinum_ingot"]
+    },
+    {
+      "input": ["item","erebus:oreCoal"],
+      "solid": ["minecraft:coal"]
+    },
+    {
+      "input": ["item","hbm:item.powder_plutonium",1,32767],
+      "solid": ["hbm:item.ingot_plutonium"]
+    },
+    {
+      "input": ["item","GalaxySpace:marsoresblocks",1,1],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","GalaxySpace:marsoresblocks",1,5],
+      "solid": ["GalacticraftCore:item.basicItem",1,5]
+    },
+    {
+      "input": ["item","atum:tile.goldOre",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","exnihilo:gold_sand",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_powders",1,8],
+      "solid": ["RotaryCraft:rotarycraft_item_compacts",1,4]
+    },
+    {
+      "input": ["item","GalaxySpace:mercuryblocks",1,3],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","exnihilo:platinum_dust",1,32767],
+      "solid": ["exnihilo:exnihilo.platinum_ingot"]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,8],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,9],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,15],
+      "solid": ["NuclearCraft:material"]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,16],
+      "solid": ["NuclearCraft:material",1,1]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,17],
+      "solid": ["NuclearCraft:material",1,2]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,18],
+      "solid": ["NuclearCraft:material",1,3]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,19],
+      "solid": ["NuclearCraft:material",1,4]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,20],
+      "solid": ["NuclearCraft:material",1,5]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,21],
+      "solid": ["NuclearCraft:material",1,6]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,22],
+      "solid": ["NuclearCraft:material",1,7]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,44],
+      "solid": ["NuclearCraft:material",1,42]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,45],
+      "solid": ["NuclearCraft:material",1,43]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,51],
+      "solid": ["NuclearCraft:material",1,50]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,53],
+      "solid": ["NuclearCraft:material",1,4]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,72],
+      "solid": ["NuclearCraft:material",1,71]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,77],
+      "solid": ["NuclearCraft:material",1,76]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,79],
+      "solid": ["NuclearCraft:material",1,78]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,81],
+      "solid": ["NuclearCraft:material",1,80]
+    },
+    {
+      "input": ["item","NuclearCraft:material",1,126],
+      "solid": ["NuclearCraft:material",1,5]
+    },
+    {
+      "input": ["item","exnihilo:osmium_dust",1,32767],
+      "solid": ["exnihilo:exnihilo.osmium_ingot"]
     },
     {
       "input": ["item","ReactorCraft:reactorcraft_block_fluoriteore"],
@@ -6112,8 +5376,576 @@
       "solid": ["ReactorCraft:reactorcraft_item_fluorite",1,7]
     },
     {
+      "input": ["item","IC2:itemDust",1,4],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","IC2:itemDust",1,5],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","exnihilo:copper_dust",1,32767],
+      "solid": ["exnihilo:exnihilo.copper_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_niobium",1,32767],
+      "solid": ["hbm:item.ingot_niobium"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_nether_tungsten",1,32767],
+      "solid": ["hbm:item.ingot_tungsten"]
+    },
+    {
+      "input": ["item","erebus:oreDiamond"],
+      "solid": ["minecraft:diamond"]
+    },
+    {
+      "input": ["item","hbm:item.powder_tantalium",1,32767],
+      "solid": ["hbm:item.ingot_tantalium"]
+    },
+    {
+      "input": ["item","minecraft:golden_helmet",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","erebus:orePetrifiedWood"],
+      "solid": ["erebus:materials",1,7]
+    },
+    {
+      "input": ["item","erebus:oreGneiss"],
+      "solid": ["erebus:materials",1,48]
+    },
+    {
+      "input": ["item","Magneticraft:zinc_ore"],
+      "solid": ["Magneticraft:item.ingotZinc"]
+    },
+    {
+      "input": ["item","hbm:item.ingot_rubber"],
+      "solid": ["MineFactoryReloaded:plastic.raw"]
+    },
+    {
+      "input": ["item","exnihilo:copper_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.copper_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_gneiss_gold",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","minecraft:gold_ore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_lead",1,32767],
+      "solid": ["hbm:item.ingot_lead"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_iron",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","ExtraPlanets:tile.triton",1,3],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_lanthanium",1,32767],
+      "solid": ["hbm:item.ingot_lanthanium"]
+    },
+    {
+      "input": ["item","minecraft:iron_boots",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","lotr:tile.oreCopper",1,32767],
+      "solid": ["lotr:item.copper"]
+    },
+    {
+      "input": ["item","ImmersiveEngineering:metal",1,8],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","ImmersiveEngineering:metal",1,9],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","ImmersiveEngineering:metal",1,11],
+      "solid": ["ImmersiveEngineering:metal",1,1]
+    },
+    {
+      "input": ["item","hbm:tile.ore_australium",1,32767],
+      "solid": ["hbm:item.nugget_australium"]
+    },
+    {
+      "input": ["item","hbm:item.powder_tcalloy",1,32767],
+      "solid": ["hbm:item.ingot_tcalloy"]
+    },
+    {
+      "input": ["item","EnderIO:itemPowderIngot",1,1],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","EnderIO:itemPowderIngot",1,2],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_nickel",1,32767],
+      "solid": ["hbm:item.ingot_nickel"]
+    },
+    {
+      "input": ["item","goodnightsleep:rainbow_ore",1,32767],
+      "solid": ["goodnightsleep:rainbow_ingot"]
+    },
+    {
+      "input": ["item","exnihilo:ender_silver_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.silver_ingot"]
+    },
+    {
+      "input": ["item","minecraft:soul_sand"],
+      "solid": ["Natura:NetherGlass"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_gneiss_iron",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_emerald",1,32767],
+      "solid": ["minecraft:emerald"]
+    },
+    {
+      "input": ["item","hbm:item.powder_ra226",1,32767],
+      "solid": ["hbm:item.ingot_ra226"]
+    },
+    {
+      "input": ["item","goodnightsleep:candy_ore",1,32767],
+      "solid": ["goodnightsleep:candy_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_diamond",1,32767],
+      "solid": ["minecraft:diamond"]
+    },
+    {
+      "input": ["item","erebus:oreJade"],
+      "solid": ["erebus:materials",1,1]
+    },
+    {
+      "input": ["item","ImmersiveEngineering:ore",1,1],
+      "solid": ["ImmersiveEngineering:metal",1,1]
+    },
+    {
+      "input": ["item","GalacticraftMars:item.itemBasicAsteroids",1,3],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","GalaxySpace:barnardacores",1,1],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","GalaxySpace:barnardacores",1,2],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","GalaxySpace:barnardacores",1,9],
+      "solid": ["GalacticraftCore:item.basicItem",1,5]
+    },
+    {
+      "input": ["item","exnihilo:lead_sand",1,32767],
+      "solid": ["exnihilo:exnihilo.lead_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_combine_steel",1,32767],
+      "solid": ["hbm:item.ingot_combine_steel"]
+    },
+    {
+      "input": ["item","ExtraPlanets:oberon",1,3],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","exnihilo:nether_nickel_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.nickel_ingot"]
+    },
+    {
+      "input": ["item","libVulpes:libVulpesproductdust",1,1],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","libVulpes:libVulpesproductdust",1,2],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","libVulpes:libVulpesproductdust",1,9],
+      "solid": ["libVulpes:libVulpesproductingot",1,9]
+    },
+    {
+      "input": ["item","hbm:tile.ore_uranium",1,32767],
+      "solid": ["hbm:item.ingot_uranium"]
+    },
+    {
+      "input": ["item","exnihilo:aluminum_sand",1,32767],
+      "solid": ["exnihilo:exnihilo.aluminum_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_schrabidate",1,32767],
+      "solid": ["hbm:item.ingot_schrabidate"]
+    },
+    {
+      "input": ["item","hbm:item.powder_calcium",1,32767],
+      "solid": ["hbm:item.ingot_calcium"]
+    },
+    {
+      "input": ["item","TConstruct:materials",1,40],
+      "solid": ["TConstruct:materials",1,11]
+    },
+    {
+      "input": ["item","exnihilo:ender_platinum_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.platinum_ingot"]
+    },
+    {
+      "input": ["item","exnihilo:iron_sand",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","IC2:itemCrushedOre"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","IC2:itemCrushedOre",1,2],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_neptunium",1,32767],
+      "solid": ["hbm:item.ingot_neptunium"]
+    },
+    {
+      "input": ["item","lotr:tile.oreSilver",1,32767],
+      "solid": ["lotr:item.silver"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_gneiss_lithium",1,32767],
+      "solid": ["hbm:item.lithium"]
+    },
+    {
+      "input": ["item","exnihilo:iron_dust",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_polonium",1,32767],
+      "solid": ["hbm:item.ingot_polonium"]
+    },
+    {
+      "input": ["item","Magneticraft:tungsten_ore"],
+      "solid": ["Magneticraft:item.ingotTungsten"]
+    },
+    {
+      "input": ["item","hbm:tile.sand_lead"],
+      "solid": ["hbm:tile.glass_lead"]
+    },
+    {
+      "input": ["item","alfheim:ElvenOre"],
+      "solid": ["Botania:manaResource",1,9]
+    },
+    {
+      "input": ["item","alfheim:ElvenOre",1,1],
+      "solid": ["Botania:manaResource",1,7]
+    },
+    {
+      "input": ["item","alfheim:ElvenOre",1,2],
+      "solid": ["Botania:quartz",1,5]
+    },
+    {
+      "input": ["item","alfheim:ElvenOre",1,3],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","alfheim:ElvenOre",1,4],
+      "solid": ["alfheim:ElvenItems",1,14]
+    },
+    {
+      "input": ["item","alfheim:ElvenOre",1,5],
+      "solid": ["minecraft:dye",1,4]
+    },
+    {
+      "input": ["item","GalacticraftMars:item.null"],
+      "solid": ["GalacticraftMars:item.null",1,2]
+    },
+    {
+      "input": ["item","ExtraPlanets:tile.neptune",1,3],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_bismuth",1,32767],
+      "solid": ["hbm:item.ingot_bismuth"]
+    },
+    {
+      "input": ["item","exnihilo:nickel_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.nickel_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_cadmium",1,32767],
+      "solid": ["hbm:item.ingot_cadmium"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_gold",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_niobium",1,32767],
+      "solid": ["hbm:item.ingot_niobium"]
+    },
+    {
+      "input": ["item","exnihilo:nether_gold_gravel",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_red_copper",1,32767],
+      "solid": ["hbm:item.ingot_red_copper"]
+    },
+    {
+      "input": ["item","minecraft:golden_leggings",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","GardenStuff:wrought_iron_ingot"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","exnihilo:gold_dust",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.gravel_diamond"],
+      "solid": ["minecraft:diamond"]
+    },
+    {
+      "input": ["item","minecraft:clay_ball",1,32767],
+      "solid": ["minecraft:brick"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_redstone",1,32767],
+      "solid": ["minecraft:redstone"]
+    },
+    {
+      "input": ["item","hbm:item.powder_magnetized_tungsten",1,32767],
+      "solid": ["hbm:item.ingot_magnetized_tungsten"]
+    },
+    {
+      "input": ["item","hbm:item.powder_iron",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","Magneticraft:item.dustBrass"],
+      "solid": ["Magneticraft:item.ingotBrass"]
+    },
+    {
+      "input": ["item","IC2:itemPurifiedCrushedOre"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","IC2:itemPurifiedCrushedOre",1,2],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.ball_resin",1,32767],
+      "solid": ["hbm:item.ingot_biorubber"]
+    },
+    {
+      "input": ["item","hbm:item.crystal_niobium",1,32767],
+      "solid": ["hbm:item.ingot_niobium"]
+    },
+    {
+      "input": ["item","TConstruct:SearedBrick",1,5],
+      "solid": ["TConstruct:materials",1,11]
+    },
+    {
+      "input": ["item","abyssalcraft:abyiroore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","lotr:tile.oreTin",1,32767],
+      "solid": ["lotr:item.tin"]
+    },
+    {
+      "input": ["item","libVulpes:libVulpesore0",1,9],
+      "solid": ["libVulpes:libVulpesproductingot",1,9]
+    },
+    {
+      "input": ["item","arsmagica2:vinteumOre"],
+      "solid": ["arsmagica2:itemOre"]
+    },
+    {
+      "input": ["item","arsmagica2:vinteumOre",1,1],
+      "solid": ["arsmagica2:itemOre",1,4]
+    },
+    {
+      "input": ["item","arsmagica2:vinteumOre",1,2],
+      "solid": ["arsmagica2:itemOre",1,5]
+    },
+    {
+      "input": ["item","arsmagica2:vinteumOre",1,3],
+      "solid": ["arsmagica2:itemOre",1,7]
+    },
+    {
+      "input": ["item","arsmagica2:vinteumOre",1,4],
+      "solid": ["arsmagica2:itemOre",1,6]
+    },
+    {
+      "input": ["item","hbm:tile.ore_aluminium",1,32767],
+      "solid": ["hbm:item.chunk_ore",1,2]
+    },
+    {
+      "input": ["item","GalaxySpace:mirandablocks",1,3],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_euphemium",1,32767],
+      "solid": ["hbm:item.ingot_euphemium"]
+    },
+    {
+      "input": ["item","hbm:item.powder_au198",1,32767],
+      "solid": ["hbm:item.ingot_au198"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_copper",1,32767],
+      "solid": ["hbm:item.ingot_copper"]
+    },
+    {
+      "input": ["item","hbm:item.powder_nickel",1,32767],
+      "solid": ["hbm:item.ingot_nickel"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_beryllium",1,32767],
+      "solid": ["hbm:item.ingot_beryllium"]
+    },
+    {
       "input": ["item","ActuallyAdditions:blockMisc",1,3],
       "solid": ["ActuallyAdditions:itemMisc",1,5]
+    },
+    {
+      "input": ["item","hbm:item.powder_gallium",1,32767],
+      "solid": ["hbm:item.ingot_gallium"]
+    },
+    {
+      "input": ["item","erebus:oreFossil"],
+      "solid": ["erebus:materials",1,2]
+    },
+    {
+      "input": ["item","hbm:item.powder_advanced_alloy",1,32767],
+      "solid": ["hbm:item.ingot_advanced_alloy"]
+    },
+    {
+      "input": ["item","Mekanism:RawOsmiumOre"],
+      "solid": ["Mekanism:Ingot",1,1]
+    },
+    {
+      "input": ["item","minecraft:iron_helmet",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_lead",1,32767],
+      "solid": ["hbm:item.ingot_lead"]
+    },
+    {
+      "input": ["item","exnihilo:ender_tin_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.tin_ingot"]
+    },
+    {
+      "input": ["item","ActuallyAdditions:itemDust"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","ActuallyAdditions:itemDust",1,1],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","Mariculture:limestone"],
+      "solid": ["Mariculture:limestone",1,1]
+    },
+    {
+      "input": ["item","hbm:tile.ore_schrabidium",1,32767],
+      "solid": ["hbm:item.ingot_schrabidium"]
+    },
+    {
+      "input": ["item","hbm:item.powder_platnium",1,32767],
+      "solid": ["hbm:item.ingot_platnium"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_gneiss_uranium",1,32767],
+      "solid": ["hbm:item.ingot_uranium"]
+    },
+    {
+      "input": ["item","exnihilo:aluminum_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.aluminum_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_bakelite",1,32767],
+      "solid": ["hbm:item.ingot_bakelite"]
+    },
+    {
+      "input": ["item","hbm:item.powder_thorium",1,32767],
+      "solid": ["hbm:item.ingot_th232"]
+    },
+    {
+      "input": ["item","hbm:item.powder_zinc",1,32767],
+      "solid": ["hbm:item.ingot_zinc"]
+    },
+    {
+      "input": ["item","ExtraPlanets:tile.rhea",1,3],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","GalacticraftMars:tile.mars",1,2],
+      "solid": ["GalacticraftMars:item.null",1,2]
+    },
+    {
+      "input": ["item","GalacticraftMars:tile.mars",1,3],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.sand_polonium"],
+      "solid": ["hbm:tile.glass_polonium"]
+    },
+    {
+      "input": ["item","hbm:item.powder_gold",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_nether_plutonium",1,32767],
+      "solid": ["hbm:item.ingot_plutonium"]
+    },
+    {
+      "input": ["item","ElectriCraft:electricraft_block_ore"],
+      "solid": ["ElectriCraft:electricraft_item_ingots"]
+    },
+    {
+      "input": ["item","ElectriCraft:electricraft_block_ore",1,1],
+      "solid": ["ElectriCraft:electricraft_item_ingots",1,1]
+    },
+    {
+      "input": ["item","ElectriCraft:electricraft_block_ore",1,2],
+      "solid": ["ElectriCraft:electricraft_item_ingots",1,2]
+    },
+    {
+      "input": ["item","ElectriCraft:electricraft_block_ore",1,3],
+      "solid": ["ElectriCraft:electricraft_item_ingots",1,3]
+    },
+    {
+      "input": ["item","ElectriCraft:electricraft_block_ore",1,4],
+      "solid": ["ElectriCraft:electricraft_item_ingots",1,4]
+    },
+    {
+      "input": ["item","ElectriCraft:electricraft_block_ore",1,5],
+      "solid": ["ElectriCraft:electricraft_item_ingots",1,5]
+    },
+    {
+      "input": ["item","ThermalFoundation:material"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","ThermalFoundation:material",1,1],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_gneiss_copper",1,32767],
+      "solid": ["hbm:item.ingot_copper"]
     },
     {
       "input": ["item","NuclearCraft:blockOre"],
@@ -6154,6 +5986,58 @@
     {
       "input": ["item","NuclearCraft:blockOre",1,9],
       "solid": ["NuclearCraft:material",1,50]
+    },
+    {
+      "input": ["item","erebus:oreGold"],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","exnihilo:tin_sand",1,32767],
+      "solid": ["exnihilo:exnihilo.tin_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_gneiss_schrabidium",1,32767],
+      "solid": ["hbm:item.ingot_schrabidium"]
+    },
+    {
+      "input": ["item","exnihilo:ender_lead_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.lead_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_cobalt",1,32767],
+      "solid": ["hbm:item.ingot_cobalt"]
+    },
+    {
+      "input": ["item","hbm:tile.waste_trinitite_red"],
+      "solid": ["hbm:tile.glass_trinitite"]
+    },
+    {
+      "input": ["item","Mekanism:Dust"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","Mekanism:Dust",1,1],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","Mekanism:Dust",1,2],
+      "solid": ["Mekanism:Ingot",1,1]
+    },
+    {
+      "input": ["item","Mekanism:Dust",1,3],
+      "solid": ["Mekanism:Ingot",1,5]
+    },
+    {
+      "input": ["item","Mekanism:Dust",1,4],
+      "solid": ["Mekanism:Ingot",1,6]
+    },
+    {
+      "input": ["item","minecraft:iron_chestplate",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_gneiss_uranium_scorched",1,32767],
+      "solid": ["hbm:item.ingot_uranium"]
     },
     {
       "input": ["item","etfuturum:modded_raw_ore"],
@@ -6212,20 +6096,320 @@
       "solid": ["hbm:item.ingot_boron"]
     },
     {
-      "input": ["item","erebus:oreFossil"],
-      "solid": ["erebus:materials",1,2]
+      "input": ["item","hbm:tile.ore_nether_schrabidium",1,32767],
+      "solid": ["hbm:item.ingot_schrabidium"]
     },
     {
-      "input": ["item","hbm:tile.ore_thorium",1,32767],
-      "solid": ["hbm:item.ingot_th232"]
+      "input": ["item","Calculator:EnrichedGold",1,32767],
+      "solid": ["Calculator:EnrichedGoldIngot"]
     },
     {
-      "input": ["item","abyssalcraft:abyiroore",1,32767],
+      "input": ["item","ProjRed|Exploration:projectred.exploration.ore"],
+      "solid": ["ProjRed|Core:projectred.core.part",1,37]
+    },
+    {
+      "input": ["item","ProjRed|Exploration:projectred.exploration.ore",1,1],
+      "solid": ["ProjRed|Core:projectred.core.part",1,38]
+    },
+    {
+      "input": ["item","ProjRed|Exploration:projectred.exploration.ore",1,2],
+      "solid": ["ProjRed|Core:projectred.core.part",1,39]
+    },
+    {
+      "input": ["item","ProjRed|Exploration:projectred.exploration.ore",1,3],
+      "solid": ["ProjRed|Core:projectred.core.part",1,52]
+    },
+    {
+      "input": ["item","ProjRed|Exploration:projectred.exploration.ore",1,4],
+      "solid": ["ProjRed|Core:projectred.core.part",1,53]
+    },
+    {
+      "input": ["item","ProjRed|Exploration:projectred.exploration.ore",1,5],
+      "solid": ["ProjRed|Core:projectred.core.part",1,54]
+    },
+    {
+      "input": ["item","ProjRed|Exploration:projectred.exploration.ore",1,6],
+      "solid": ["ProjRed|Core:projectred.core.part",1,56]
+    },
+    {
+      "input": ["item","hbm:item.powder_dineutronium",1,32767],
+      "solid": ["hbm:item.ingot_dineutronium"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_uranium_scorched",1,32767],
+      "solid": ["hbm:item.ingot_uranium"]
+    },
+    {
+      "input": ["item","exnihilo:lead_dust",1,32767],
+      "solid": ["exnihilo:exnihilo.lead_ingot"]
+    },
+    {
+      "input": ["item","exnihilo:nickel_dust",1,32767],
+      "solid": ["exnihilo:exnihilo.nickel_ingot"]
+    },
+    {
+      "input": ["item","TConstruct:GravelOre"],
       "solid": ["minecraft:iron_ingot"]
     },
     {
-      "input": ["item","Magneticraft:copper_ore"],
-      "solid": ["Magneticraft:item.ingotCopper"]
+      "input": ["item","TConstruct:GravelOre",1,1],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","TConstruct:GravelOre",1,4],
+      "solid": ["TConstruct:materials",1,11]
+    },
+    {
+      "input": ["item","hbm:tile.ash_digamma"],
+      "solid": ["hbm:tile.glass_ash"]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,3],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots"]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,7],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,1]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,11],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,2]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,15],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,3]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,143],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots"]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,19],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,4]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,147],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,1]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,275],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,10]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,151],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,2]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,27],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,6]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,155],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,3]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,283],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,7]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,31],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,7]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,159],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,4]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,287],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,71]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,291],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,72]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,167],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,41]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,43],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,10]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,171],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,42]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,175],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,43]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,303],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,63]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,179],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,43]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,183],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,45]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,311],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,46]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,187],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,46]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,191],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,47]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,319],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,79]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,199],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,49]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,203],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,50]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,331],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,82]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,207],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,51]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,347],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,86]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,355],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,88]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,359],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,89]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,119],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,123],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","RotaryCraft:rotarycraft_item_modextracts",1,255],
+      "solid": ["RotaryCraft:rotarycraft_item_modingots",1,63]
+    },
+    {
+      "input": ["item","exnihilo:silver_sand",1,32767],
+      "solid": ["exnihilo:exnihilo.silver_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_tungsten",1,32767],
+      "solid": ["hbm:item.ingot_tungsten"]
+    },
+    {
+      "input": ["item","exnihilo:lead_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.lead_ingot"]
+    },
+    {
+      "input": ["item","Mekanism:OtherDust",1,1],
+      "solid": ["Mekanism:Ingot",1,4]
+    },
+    {
+      "input": ["item","hbm:tile.ore_lapis",1,32767],
+      "solid": ["minecraft:dye",1,4]
+    },
+    {
+      "input": ["item","hbm:item.powder_polymer",1,32767],
+      "solid": ["hbm:item.ingot_polymer"]
+    },
+    {
+      "input": ["item","hbm:item.powder_zirconium",1,32767],
+      "solid": ["hbm:item.ingot_zirconium"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_nether_uranium_scorched",1,32767],
+      "solid": ["hbm:item.ingot_uranium"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_plutonium",1,32767],
+      "solid": ["hbm:item.ingot_plutonium"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_zinc",1,32767],
+      "solid": ["hbm:item.ingot_zinc"]
+    },
+    {
+      "input": ["item","exnihilo:silver_dust",1,32767],
+      "solid": ["exnihilo:exnihilo.silver_ingot"]
+    },
+    {
+      "input": ["item","Natura:heatsand"],
+      "solid": ["Natura:NetherGlass",1,1]
+    },
+    {
+      "input": ["item","atum:tile.ironOre",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","abyssalcraft:abygolore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","netherlicious:EfrineOre"],
+      "solid": ["netherlicious:Ingot"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_nether_uranium",1,32767],
+      "solid": ["hbm:item.ingot_uranium"]
+    },
+    {
+      "input": ["item","minecraft:netherrack",1,32767],
+      "solid": ["minecraft:netherbrick"]
+    },
+    {
+      "input": ["item","GalacticraftMars:tile.asteroidsBlock",1,3],
+      "solid": ["GalacticraftCore:item.basicItem",1,5]
+    },
+    {
+      "input": ["item","GalacticraftMars:tile.asteroidsBlock",1,5],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","exnihilo:nether_iron_gravel",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_aluminium",1,32767],
+      "solid": ["hbm:item.ingot_aluminium"]
+    },
+    {
+      "input": ["item","hbm:item.powder_uranium",1,32767],
+      "solid": ["hbm:item.ingot_uranium"]
+    },
+    {
+      "input": ["item","minecraft:golden_boots",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","ExtraPlanets:titania",1,3],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:item.powder_actinium",1,32767],
+      "solid": ["hbm:item.ingot_actinium"]
     },
     {
       "input": ["item","techreborn:dust",1,33],
@@ -6236,28 +6420,40 @@
       "solid": ["minecraft:iron_ingot"]
     },
     {
-      "input": ["item","GalaxySpace:mercuryblocks",1,3],
-      "solid": ["minecraft:iron_ingot"]
+      "input": ["item","hbm:item.powder_titanium",1,32767],
+      "solid": ["hbm:item.ingot_titanium"]
     },
     {
-      "input": ["item","hbm:item.powder_iron",1,32767],
-      "solid": ["minecraft:iron_ingot"]
+      "input": ["item","hbm:item.powder_boron",1,32767],
+      "solid": ["hbm:item.ingot_boron"]
     },
     {
-      "input": ["item","GalaxySpace:marsoresblocks",1,1],
+      "input": ["item","hbm:item.powder_dura_steel",1,32767],
+      "solid": ["hbm:item.ingot_dura_steel"]
+    },
+    {
+      "input": ["item","hbm:item.powder_steel",1,32767],
+      "solid": ["hbm:item.ingot_steel"]
+    },
+    {
+      "input": ["item","hbm:tile.ore_thorium",1,32767],
+      "solid": ["hbm:item.ingot_th232"]
+    },
+    {
+      "input": ["item","minecraft:golden_chestplate",1,32767],
       "solid": ["minecraft:gold_ingot"]
     },
     {
-      "input": ["item","GalaxySpace:marsoresblocks",1,5],
-      "solid": ["GalacticraftCore:item.basicItem",1,5]
+      "input": ["item","hbm:tile.gravel_obsidian"],
+      "solid": ["minecraft:obsidian"]
     },
     {
-      "input": ["item","GalacticraftCore:tile.gcBlockCore",1,7],
-      "solid": ["GalacticraftCore:item.basicItem",1,5]
+      "input": ["item","exnihilo:osmium_gravel",1,32767],
+      "solid": ["exnihilo:exnihilo.osmium_ingot"]
     },
     {
-      "input": ["item","hbm:tile.waste_trinitite"],
-      "solid": ["hbm:tile.glass_trinitite"]
+      "input": ["item","erebus:oreEncrustedDiamond"],
+      "solid": ["erebus:encrustedDiamond"]
     },
     {
       "input": ["item","etfuturum:raw_ore"],
@@ -6272,208 +6468,12 @@
       "solid": ["minecraft:gold_ingot"]
     },
     {
-      "input": ["item","hbm:item.powder_titanium",1,32767],
-      "solid": ["hbm:item.ingot_titanium"]
-    },
-    {
-      "input": ["item","goodnightsleep:zitrite_ore",1,32767],
-      "solid": ["goodnightsleep:zitrite_ingot"]
-    },
-    {
-      "input": ["item","minecraft:gold_ore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","minecraft:soul_sand"],
-      "solid": ["Natura:NetherGlass"]
-    },
-    {
-      "input": ["item","erebus:oreCoal"],
-      "solid": ["minecraft:coal"]
-    },
-    {
-      "input": ["item","exnihilo:tin_sand",1,32767],
-      "solid": ["exnihilo:exnihilo.tin_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_thorium",1,32767],
-      "solid": ["hbm:item.ingot_th232"]
-    },
-    {
-      "input": ["item","atum:tile.goldOre",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_nickel",1,32767],
+      "input": ["item","hbm:item.crystal_nickel",1,32767],
       "solid": ["hbm:item.ingot_nickel"]
     },
     {
-      "input": ["item","erebus:oreGold"],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_ra226",1,32767],
-      "solid": ["hbm:item.ingot_ra226"]
-    },
-    {
-      "input": ["item","lotr:tile.oreTin",1,32767],
-      "solid": ["lotr:item.tin"]
-    },
-    {
-      "input": ["item","exnihilo:nickel_sand",1,32767],
-      "solid": ["exnihilo:exnihilo.nickel_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_lead",1,32767],
-      "solid": ["hbm:item.ingot_lead"]
-    },
-    {
-      "input": ["item","exnihilo:aluminum_sand",1,32767],
-      "solid": ["exnihilo:exnihilo.aluminum_ingot"]
-    },
-    {
-      "input": ["item","Natura:heatsand"],
-      "solid": ["Natura:NetherGlass",1,1]
-    },
-    {
-      "input": ["item","ProjRed|Core:projectred.core.part",1,40],
-      "solid": ["ProjRed|Core:projectred.core.part",1,10]
-    },
-    {
-      "input": ["item","ProjRed|Core:projectred.core.part",1,57],
-      "solid": ["ProjRed|Core:projectred.core.part",1,55]
-    },
-    {
-      "input": ["item","minecraft:iron_ore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","exnihilo:nether_copper_gravel",1,32767],
-      "solid": ["exnihilo:exnihilo.copper_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.sand_uranium"],
-      "solid": ["hbm:tile.glass_uranium"]
-    },
-    {
-      "input": ["item","Magneticraft:tungsten_ore"],
-      "solid": ["Magneticraft:item.ingotTungsten"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_nether_uranium",1,32767],
-      "solid": ["hbm:item.ingot_uranium"]
-    },
-    {
-      "input": ["item","ExtraPlanets:tile.eris",1,3],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","goodnightsleep:candy_ore",1,32767],
-      "solid": ["goodnightsleep:candy_ingot"]
-    },
-    {
-      "input": ["item","erebus:orePetrifiedWood"],
-      "solid": ["erebus:materials",1,7]
-    },
-    {
-      "input": ["item","GalaxySpace:europablocks",1,5],
-      "solid": ["GalacticraftCore:item.basicItem",1,5]
-    },
-    {
-      "input": ["item","GalaxySpace:mirandablocks",1,3],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:item.powder_bakelite",1,32767],
-      "solid": ["hbm:item.ingot_bakelite"]
-    },
-    {
-      "input": ["item","hbm:item.powder_aluminium",1,32767],
-      "solid": ["hbm:item.ingot_aluminium"]
-    },
-    {
-      "input": ["item","ExtraPlanets:tile.triton",1,3],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","Mekanism:OreBlock"],
-      "solid": ["Mekanism:Ingot",1,1]
-    },
-    {
-      "input": ["item","Mekanism:OreBlock",1,1],
-      "solid": ["Mekanism:Ingot",1,5]
-    },
-    {
-      "input": ["item","Mekanism:OreBlock",1,2],
-      "solid": ["Mekanism:Ingot",1,6]
-    },
-    {
-      "input": ["item","GalacticraftMars:item.null"],
-      "solid": ["GalacticraftMars:item.null",1,2]
-    },
-    {
-      "input": ["item","hbm:tile.ore_titanium",1,32767],
-      "solid": ["hbm:item.ingot_titanium"]
-    },
-    {
-      "input": ["item","lotr:tile.oreCopper",1,32767],
-      "solid": ["lotr:item.copper"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_nether_uranium_scorched",1,32767],
-      "solid": ["hbm:item.ingot_uranium"]
-    },
-    {
-      "input": ["item","minecraft:clay_ball",1,32767],
-      "solid": ["minecraft:brick"]
-    },
-    {
-      "input": ["item","exnihilo:nether_gold_gravel",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","TaintedMagic:BlockShadowOre",1,32767],
-      "solid": ["TaintedMagic:ItemMaterial"]
-    },
-    {
-      "input": ["item","hbm:item.arc_electrode_burnt"],
-      "solid": ["hbm:item.ingot_graphite"]
-    },
-    {
-      "input": ["item","hbm:item.arc_electrode_burnt",1,1],
-      "solid": ["hbm:item.ingot_lanthanium"]
-    },
-    {
-      "input": ["item","hbm:item.arc_electrode_burnt",1,2],
-      "solid": ["hbm:item.ingot_desh"]
-    },
-    {
-      "input": ["item","hbm:item.arc_electrode_burnt",1,3],
-      "solid": ["hbm:item.ingot_saturnite"]
-    },
-    {
-      "input": ["item","minecraft:golden_helmet",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:tile.ore_nether_cobalt",1,32767],
-      "solid": ["hbm:item.ingot_cobalt"]
-    },
-    {
-      "input": ["item","hbm:item.powder_advanced_alloy",1,32767],
-      "solid": ["hbm:item.ingot_advanced_alloy"]
-    },
-    {
-      "input": ["item","exnihilo:copper_sand",1,32767],
-      "solid": ["exnihilo:exnihilo.copper_ingot"]
-    },
-    {
-      "input": ["item","thebetweenlands:octineOre"],
-      "solid": ["thebetweenlands:unknownGeneric",1,15]
-    },
-    {
-      "input": ["item","hbm:item.powder_cadmium",1,32767],
-      "solid": ["hbm:item.ingot_cadmium"]
+      "input": ["item","hbm:item.combine_scrap",1,32767],
+      "solid": ["hbm:item.ingot_combine_steel"]
     }
   ]
 }
