@@ -135,7 +135,8 @@
     },
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
-      "HIROMISHIYA": "https://mc-heads.net/avatar/a1c292ecd4874edbb1a406bf7a784d40"
+      "HIROMISHIYA": "https://mc-heads.net/avatar/a1c292ecd4874edbb1a406bf7a784d40",
+      "127.0.0.1": "https://api.mcsrvstat.us/icon/127.0.0.1"
     },
     "dynamicVariables": {
       "default": "Example Text",
