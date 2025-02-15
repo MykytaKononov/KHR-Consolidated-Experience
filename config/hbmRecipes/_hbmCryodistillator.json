@@ -1,18 +1,18 @@
 {
   "recipes": [
     {
-      "input": "AIR",
-      "output1": ["NITROGEN",50],
-      "output2": ["CARBONDIOXIDE",5],
-      "output3": ["KRYPTON",10],
-      "output4": ["OXYGEN",15]
+      "input": "MORKINE",
+      "output1": ["UNSATURATEDS",40],
+      "output2": ["HYDROGEN",10],
+      "output3": ["METHYLENE",14],
+      "output4": ["AROMATICS",25]
     },
     {
-      "input": "DUNAAIR",
-      "output1": ["CARBONDIOXIDE",80],
-      "output2": ["OXYGEN",2],
-      "output3": ["ARGON",8],
-      "output4": ["NITROGEN",10]
+      "input": "JOOLGAS",
+      "output1": ["HELIUM3",30],
+      "output2": ["NEON",10],
+      "output3": ["CHLORINE",20],
+      "output4": ["HYDROGEN",25]
     },
     {
       "input": "NGAS",
@@ -36,6 +36,13 @@
       "output4": ["MERCURY",25]
     },
     {
+      "input": "DUNAAIR",
+      "output1": ["CARBONDIOXIDE",80],
+      "output2": ["OXYGEN",2],
+      "output3": ["ARGON",8],
+      "output4": ["NITROGEN",10]
+    },
+    {
       "input": "SARNUSGAS",
       "output1": ["HYDROGEN",45],
       "output2": ["NITROGEN",5],
@@ -50,18 +57,11 @@
       "output4": ["NITROGEN",25]
     },
     {
-      "input": "MORKINE",
-      "output1": ["UNSATURATEDS",40],
-      "output2": ["HYDROGEN",10],
-      "output3": ["METHYLENE",14],
-      "output4": ["AROMATICS",25]
-    },
-    {
-      "input": "JOOLGAS",
-      "output1": ["HELIUM3",30],
-      "output2": ["NEON",10],
-      "output3": ["CHLORINE",20],
-      "output4": ["HYDROGEN",25]
+      "input": "AIR",
+      "output1": ["NITROGEN",50],
+      "output2": ["CARBONDIOXIDE",5],
+      "output3": ["KRYPTON",10],
+      "output4": ["OXYGEN",15]
     }
   ]
 }
