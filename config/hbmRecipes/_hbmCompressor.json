@@ -1,12 +1,8 @@
 {
   "recipes": [
     {
-      "input": ["PERFLUOROMETHYL",1000],
-      "output": ["PERFLUOROMETHYL",1000,1]
-    },
-    {
-      "input": ["PERFLUOROMETHYL",1000,1],
-      "output": ["PERFLUOROMETHYL_COLD",1000]
+      "input": ["BLOOD",1000,3],
+      "output": ["HEAVYOIL",250]
     },
     {
       "input": ["PETROLEUM",2000],
@@ -17,8 +13,12 @@
       "output": ["LPG",1000]
     },
     {
-      "input": ["BLOOD",1000,3],
-      "output": ["HEAVYOIL",250]
+      "input": ["PERFLUOROMETHYL",1000],
+      "output": ["PERFLUOROMETHYL",1000,1]
+    },
+    {
+      "input": ["PERFLUOROMETHYL",1000,1],
+      "output": ["PERFLUOROMETHYL_COLD",1000]
     }
   ]
 }

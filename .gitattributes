@@ -1,6 +1,6 @@
 mods/DrZharks[[:space:]]MoCreatures[[:space:]]Mod[[:space:]]v6.3.1.zip filter=lfs diff=lfs merge=lfs -text
 mods/ChromatiCraft[[:space:]]1.7.10[[:space:]]V33a.jar filter=lfs diff=lfs merge=lfs -text
-mods/HBM-NTM-.1.0.27_X5231_H261.jar filter=lfs diff=lfs merge=lfs -text
+mods/HBM-NTM-.1.0.27_X5245_H261.jar filter=lfs diff=lfs merge=lfs -text
 mods/TheBetweenlands-1.0.7-universal.jar filter=lfs diff=lfs merge=lfs -text
 mods/Nevermine-Tslat-1.0.1.jar filter=lfs diff=lfs merge=lfs -text
 mods/Alfheim-60.jar filter=lfs diff=lfs merge=lfs -text
