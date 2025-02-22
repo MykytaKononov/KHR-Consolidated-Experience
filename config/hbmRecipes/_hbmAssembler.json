@@ -1,21 +1,6 @@
 {
   "recipes": [
     {
-      "output": ["hbm:item.sat_lunar_miner"],
-      "input": [
-        ["item","hbm:item.ingot_meteorite",4],
-        ["item","hbm:item.plate_desh",4],
-        ["item","hbm:item.motor",2],
-        ["item","hbm:item.drill_titanium",2],
-        ["item","hbm:item.circuit",8,10],
-        ["item","hbm:item.fluid_barrel_full",1,22],
-        ["item","hbm:item.thruster_small"],
-        ["item","hbm:item.photo_panel",12],
-        ["item","hbm:tile.machine_lithium_battery"]
-      ],
-      "duration": 600
-    },
-    {
       "output": ["hbm:tile.turret_himars"],
       "input": [
         ["item","hbm:tile.machine_battery"],
@@ -120,6 +105,17 @@
         ["item","hbm:item.circuit",6,9]
       ],
       "duration": 100
+    },
+    {
+      "output": ["hbm:tile.dyson_converter_anatmogenesis"],
+      "input": [
+        ["dict","plateSextupleOsmiridium",2],
+        ["item","hbm:item.turbine_syngas",16],
+        ["dict","plateSextupleTungsten",8],
+        ["item","hbm:tile.machine_transformer_dnt",4],
+        ["item","hbm:item.circuit",8,7]
+      ],
+      "duration": 1200
     },
     {
       "output": ["hbm:item.asbestos_cloth",4],
@@ -1033,8 +1029,8 @@
       ],
       "duration": 600,
       "folders": [
-        "hbm:item.journal_bj",
-        "hbm:item.journal_pip"
+        "hbm:item.journal_pip",
+        "hbm:item.journal_bj"
       ]
     },
     {
@@ -2331,6 +2327,20 @@
       "duration": 200
     },
     {
+      "output": ["hbm:item.swarm_member"],
+      "input": [
+        ["dict","plateSextupleTungsten"],
+        ["dict","ingotAnyHardPlastic",2],
+        ["item","hbm:item.beryllium_mirror"],
+        ["dict","wireDenseGold",2],
+        ["dict","wireFineAdvancedAlloy",32],
+        ["dict","plateStainlessSteel",4],
+        ["item","hbm:item.circuit",2,11],
+        ["item","hbm:item.circuit",1,27]
+      ],
+      "duration": 100
+    },
+    {
       "output": ["hbm:tile.machine_coker"],
       "input": [
         ["dict","plateSextupleSteel",3],
@@ -2443,6 +2453,19 @@
         ["item","hbm:item.coil_gold",4]
       ],
       "duration": 250
+    },
+    {
+      "output": ["hbm:tile.machine_magma"],
+      "input": [
+        ["item","hbm:tile.steel_scaffold",8],
+        ["dict","plateSextupleTungsten",2],
+        ["item","hbm:item.pipes_steel",2],
+        ["item","hbm:item.tank_steel",4],
+        ["dict","plateSteel",32],
+        ["item","hbm:item.drill_titanium"],
+        ["item","hbm:item.motor_bismuth"]
+      ],
+      "duration": 400
     },
     {
       "output": ["hbm:tile.machine_flare"],
@@ -2577,6 +2600,17 @@
       "duration": 500
     },
     {
+      "output": ["hbm:tile.dyson_converter_tu"],
+      "input": [
+        ["dict","plateSextupleOsmiridium",2],
+        ["dict","plateSextupleTungsten",8],
+        ["item","hbm:tile.machine_transformer_dnt",4],
+        ["item","hbm:item.circuit",8,7],
+        ["dict","ntmpipeSteel",12]
+      ],
+      "duration": 1200
+    },
+    {
       "output": ["hbm:item.chopper_gun"],
       "input": [
         ["dict","plateCMBSteel",4],
@@ -2604,6 +2638,19 @@
         ["dict","plateTripleDesh",256]
       ],
       "duration": 12000
+    },
+    {
+      "output": ["hbm:item.sat_dyson_relay"],
+      "input": [
+        ["dict","plateSaturnite",24],
+        ["item","hbm:item.motor_bismuth",2],
+        ["item","hbm:item.circuit",8,10],
+        ["item","hbm:item.fluid_barrel_full",1,22],
+        ["item","hbm:item.thruster_small"],
+        ["dict","wireDenseBSCCO",64],
+        ["item","hbm:tile.machine_transformer_dnt"]
+      ],
+      "duration": 600
     },
     {
       "output": ["hbm:tile.machine_radiolysis"],
@@ -3015,6 +3062,19 @@
         ["dict","dustBeryllium"]
       ],
       "duration": 50
+    },
+    {
+      "output": ["hbm:tile.dyson_launcher"],
+      "input": [
+        ["dict","plateSextupleOsmiridium",4],
+        ["dict","plateStainlessSteel",64],
+        ["item","hbm:tile.steel_scaffold",128],
+        ["item","hbm:item.turbine_syngas",8],
+        ["item","hbm:tile.machine_transformer_dnt",2],
+        ["item","hbm:item.plate_dineutronium",8],
+        ["item","hbm:item.circuit",1,20]
+      ],
+      "duration": 1200
     },
     {
       "output": ["hbm:tile.machine_pyrooven"],
@@ -3457,6 +3517,17 @@
         ["item","hbm:tile.steel_roof",5]
       ],
       "duration": 50
+    },
+    {
+      "output": ["hbm:tile.dyson_converter_he"],
+      "input": [
+        ["dict","plateSextupleOsmiridium",2],
+        ["dict","wireDenseAdvancedAlloy",64],
+        ["dict","wireDenseGold",16],
+        ["item","hbm:tile.machine_transformer_dnt",4],
+        ["item","hbm:item.circuit",8,7]
+      ],
+      "duration": 1200
     },
     {
       "output": ["hbm:item.man_core"],
@@ -3941,6 +4012,19 @@
         ["item","minecraft:glass",4]
       ],
       "duration": 200
+    },
+    {
+      "output": ["hbm:tile.dyson_receiver"],
+      "input": [
+        ["dict","plateSextupleOsmiridium",2],
+        ["dict","plateSextupleTungsten",4],
+        ["item","hbm:tile.steel_scaffold",32],
+        ["item","hbm:item.crystal_xen"],
+        ["item","hbm:item.magnet_circular",16],
+        ["item","hbm:item.circuit",4,19],
+        ["dict","wireDenseBSCCO",128]
+      ],
+      "duration": 1200
     },
     {
       "output": ["hbm:tile.machine_battery"],

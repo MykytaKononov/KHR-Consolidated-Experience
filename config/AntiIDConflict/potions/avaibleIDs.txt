@@ -1,11 +1,10 @@
 Total amount of free potion ids: C:\Users\Nikit\curseforge\minecraft\Instances\KHR-Consolidated-Experience\config\AntiIDConflict\potions\avaibleIDs.txt
 List of free potion ids:
 0
-46
-47
 48
 49
 50
+51
 53
 54
 55
@@ -21,6 +20,7 @@ List of free potion ids:
 196
 197
 198
+199
 202
 203
 204

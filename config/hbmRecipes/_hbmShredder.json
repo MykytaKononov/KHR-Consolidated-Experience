@@ -234,6 +234,10 @@
       "output": ["hbm:item.ore_enriched",1,4]
     },
     {
+      "input": ["MoCreatures:MoCWoodPlank",1,1],
+      "output": ["hbm:item.powder_sawdust"]
+    },
+    {
       "input": ["ExtraTrees:log",1,21],
       "output": ["hbm:item.powder_sawdust",4]
     },
@@ -284,6 +288,10 @@
     {
       "input": ["etfuturum:log_stripped"],
       "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["MoCreatures:MoCWoodPlank"],
+      "output": ["hbm:item.powder_sawdust"]
     },
     {
       "input": ["minecraft:quartz_stairs"],
@@ -450,6 +458,10 @@
       "output": ["hbm:item.ore_enriched",1,8]
     },
     {
+      "input": ["MoCreatures:MoCStone",1,1],
+      "output": ["minecraft:gravel"]
+    },
+    {
       "input": ["minecraft:glowstone"],
       "output": ["minecraft:glowstone_dust",4]
     },
@@ -480,6 +492,10 @@
     {
       "input": ["alfheim:netherWood",1,32767],
       "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["MoCreatures:MoCStone"],
+      "output": ["minecraft:gravel"]
     },
     {
       "input": ["hbm:tile.sand_dirty_red"],
@@ -858,6 +874,10 @@
       "output": ["hbm:item.powder_sawdust",4]
     },
     {
+      "input": ["salisarcana:blockCustomPlank",1,32767],
+      "output": ["hbm:item.powder_sawdust"]
+    },
+    {
       "input": ["ChromatiCraft:chromaticraft_block_dyesapling",1,3],
       "output": ["minecraft:stick"]
     },
@@ -868,6 +888,10 @@
     {
       "input": ["hbm:tile.deco_pipe_rim"],
       "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["MoCreatures:MoCLog",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["TwilightForest:tile.TFSapling",1,5],
@@ -1232,6 +1256,10 @@
     {
       "input": ["hbm:item.ore_separated",1,14],
       "output": ["hbm:item.ore_enriched",1,14]
+    },
+    {
+      "input": ["MoCreatures:MoCLog"],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:item.ore_seared",1,3],

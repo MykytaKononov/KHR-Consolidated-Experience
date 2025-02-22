@@ -34,9 +34,9 @@ All ids and their position:
 29 is Occupied by potion.radiation (galaxyspace.core.prefab.potions.Radiation)
 30 is Occupied by potion.lotr.drinkPoison (lotr.common.item.LOTRPotionPoisonKilling)
 31 is Occupied by potion.warpward (thaumcraft.common.lib.potions.PotionWarpWard)
-32 is Occupied by potion.deathgaze (thaumcraft.common.lib.potions.PotionDeathGaze)
-33 is Occupied by potion.blurred (thaumcraft.common.lib.potions.PotionBlurredVision)
-34 is Occupied by potion.sunscorned (thaumcraft.common.lib.potions.PotionSunScorned)
+32 is Occupied by Bat (totemic_commons.pokefenn.potion.PotionBat)
+33 is Occupied by Horse (totemic_commons.pokefenn.potion.PotionHorse)
+34 is Occupied by potion.deathgaze (thaumcraft.common.lib.potions.PotionDeathGaze)
 35 is Occupied by Spider (totemic_commons.pokefenn.potion.PotionSpider)
 36 is Occupied by Growth Accelerant (Reika.ChromatiCraft.Magic.Potions.PotionGrowthHormone)
 37 is Occupied by alfheim.potion.edgeLife (alfheim.common.potion.PotionEdgeLife)
@@ -45,15 +45,15 @@ All ids and their position:
 40 is Occupied by alfheim.potion.hystrix (alfheim.common.potion.PotionHystrix)
 41 is Occupied by Void Gaze (Reika.ChromatiCraft.Magic.Potions.PotionVoidGaze)
 42 is Occupied by Restorative Aura (Reika.ChromatiCraft.Magic.Potions.PotionLumenRegen)
-43 is Occupied by potion.thaumarhia (thaumcraft.common.lib.potions.PotionThaumarhia)
+43 is Occupied by potion.blurred (thaumcraft.common.lib.potions.PotionBlurredVision)
 44 is Occupied by potion.saturation (Reika.ChromatiCraft.Magic.Potions.PotionBetterSaturation)
 45 is Occupied by alfheim.potion.nineLives (alfheim.common.potion.PotionAlfheim)
-46 is Avaible
-47 is Avaible
+46 is Occupied by potion.sunscorned (thaumcraft.common.lib.potions.PotionSunScorned)
+47 is Occupied by potion.thaumarhia (thaumcraft.common.lib.potions.PotionThaumarhia)
 48 is Avaible
 49 is Avaible
 50 is Avaible
-51 is Occupied by Horse (totemic_commons.pokefenn.potion.PotionHorse)
+51 is Avaible
 52 is Occupied by alfheim.potion.priorityTarget (alfheim.common.potion.PotionPriorityTarget)
 53 is Avaible
 54 is Avaible
@@ -201,7 +201,7 @@ All ids and their position:
 196 is Avaible
 197 is Avaible
 198 is Avaible
-199 is Occupied by Bat (totemic_commons.pokefenn.potion.PotionBat)
+199 is Avaible
 200 is Occupied by potion.binding (flaxbeard.thaumicexploration.misc.TXPotion)
 201 is Occupied by potion.taintWithdrawl (flaxbeard.thaumicexploration.misc.TXTaintPotion)
 202 is Avaible
