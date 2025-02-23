@@ -11,7 +11,7 @@
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
-    "clientId": "450485984333660181",
+    "clientId": "1343058971539275906",
     "defaultIcon": "grass",
     "enableJoinRequests": false,
     "preferredClientLevel": 3,
@@ -30,12 +30,12 @@
     "fallbackDimensionIcon": "unknown",
     "dimensionData": {
       "default": {
-        "textOverride": "In the {dimension.name}"
+        "textOverride": "In the world of {dimension.name}"
       }
     }
   },
   "serverSettings": {
-    "fallbackServerIcon": "default",
+    "fallbackServerIcon": "khr_consolidated_experience_logo",
     "fallbackServerName": "Minecraft Server",
     "fallbackServerMotd": "A Minecraft Server",
     "serverData": {
@@ -119,11 +119,11 @@
       "activityType": 0,
       "partyPrivacy": 1,
       "details": "{getFirst(menu.message, dimension.message)}",
-      "gameState": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
-      "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
+      "gameState": "{getOrDefault(server.message)}",
+      "largeImageKey": "khr_consolidated_experience_logo",
       "largeImageText": "{getFirst(menu.message, dimension.message)}",
-      "smallImageKey": "{getFirst(server.icon, pack.icon)}",
-      "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
+      "smallImageKey": "HIROMISHIYA",
+      "smallImageText": "{getOrDefault(server.message)}",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
       "buttons": {

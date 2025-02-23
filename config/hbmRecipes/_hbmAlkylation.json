@@ -7,12 +7,6 @@
       "output2": ["PEROXIDE",20]
     },
     {
-      "input": "UNSATURATEDS",
-      "acid": ["NONE",0],
-      "output1": ["AROMATICS",70],
-      "output2": ["PETROLEUM",30]
-    },
-    {
       "input": "CHLOROMETHANE",
       "acid": ["NONE",0],
       "output1": ["UNSATURATEDS",75],
@@ -23,6 +17,12 @@
       "acid": ["RADIOSOLVENT",40],
       "output1": ["XYLENE",100],
       "output2": ["CHLORINE",10]
+    },
+    {
+      "input": "UNSATURATEDS",
+      "acid": ["NONE",0],
+      "output1": ["AROMATICS",70],
+      "output2": ["PETROLEUM",30]
     }
   ]
 }
