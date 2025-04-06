@@ -2208,6 +2208,17 @@
     },
     {
       "inputs": [
+        ["item","hbm:tile.deco_rusty_steel",8]
+      ],
+      "outputs": [
+        ["hbm:item.ingot_steel",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
         ["item","hbm:tile.deco_lead",4]
       ],
       "outputs": [

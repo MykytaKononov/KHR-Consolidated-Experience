@@ -205,6 +205,14 @@
       [["hbm:item.iv_blood"],1,1,15],
       [["hbm:item.siox"],1,1,5]
     ],
+    "POOL_OIL_RIG": [
+      [["hbm:item.oil_detector"],1,1,1],
+      [["hbm:item.canister_full",1,10],1,4,5],
+      [["hbm:tile.machine_fraction_tower"],0,1,1],
+      [["hbm:tile.fraction_spacer"],0,1,1],
+      [["hbm:item.circuit",1,8],1,4,1],
+      [["hbm:item.circuit",1,1],1,1,3]
+    ],
     "POOL_VAULT_UNBREAKABLE": [
       [["hbm:item.ammo_container"],3,6,1],
       [["hbm:item.ammo_standard",1,74],2,3,1],
@@ -428,7 +436,9 @@
       [["hbm:item.crackpipe"],1,1,5],
       [["hbm:item.flask_infusion"],1,1,5],
       [["hbm:tile.boxcar"],1,1,5],
-      [["hbm:item.book_of_"],1,1,5]
+      [["hbm:item.book_of_"],1,1,5],
+      [["hbm:item.gun_hangman"],1,1,1],
+      [["hbm:item.gun_mas36"],1,1,1]
     ],
     "POOL_NUKE_TRASH": [
       [["hbm:item.nugget_u238"],3,12,5],

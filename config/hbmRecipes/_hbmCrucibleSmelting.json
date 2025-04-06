@@ -70,6 +70,10 @@
       "output": [["Carbon",24]]
     },
     {
+      "input": ["item","hbm:item.ring_starmetal"],
+      "output": [["Starmetal",288]]
+    },
+    {
       "input": ["item","hbm:item.blades_advanced_alloy"],
       "output": [["AdvancedAlloy",288]]
     },

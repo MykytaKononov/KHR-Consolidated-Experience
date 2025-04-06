@@ -73,7 +73,7 @@ client {
     S:location_background_color=0x40303030
 
     # Shadow casting option for current celestial object name
-    B:location_has_shadow=true
+    B:location_has_shadow= true
 
     # Horizontal offset on screen, increase to move to the right
     I:location_offset_x=40
@@ -85,7 +85,7 @@ client {
     S:location_prefix=Â§l%1$s
 
     # Scale for location text font
-    D:location_scale=1.0
+    D:location_scale=0.5
 
     # Alignment on screen: TOP_LEFT, TOP_CENTER, TOP_RIGHT, MIDDLE_LEFT, MIDDLE_CENTER, MIDDLE_RIGHT, BOTTOM_LEFT, BOTTOM_CENTER or BOTTOM_RIGHT
     S:location_screen_alignment=MIDDLE_RIGHT

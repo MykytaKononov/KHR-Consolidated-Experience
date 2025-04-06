@@ -98,7 +98,7 @@
 -3 is Occupied by: DimensionDeeplands, Provider: (id: 15, class: class net.nevermine.dimension.deeplands.WorldProviderDp)
 -2 is Occupied by: DimensionLunalus, Provider: (id: 14, class: class net.nevermine.dimension.lunalus.WorldProviderLu)
 -1 is Occupied by: Nether, Provider: (id: -1, class: class DelirusCrux.Netherlicious.Dimension.NetherWorldProvider)
-0 is Occupied by: Overworld, Provider: (id: 0, class: class net.minecraft.world.WorldProviderSurface)
+0 is Occupied by: Earth, Provider: (id: 0, class: class com.hbm.dim.WorldProviderEarth)
 1 is Occupied by: The End, Provider: (id: 1, class: class net.minecraft.world.WorldProviderEnd)
 2 is Avaible
 3 is Avaible

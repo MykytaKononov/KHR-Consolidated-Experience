@@ -922,6 +922,10 @@
       "output": ["minecraft:clay_ball",3]
     },
     {
+      "input": ["etfuturum:mangrove_log",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
       "input": ["ChromatiCraft:chromaticraft_block_dyesapling",1,4],
       "output": ["minecraft:stick"]
     },
@@ -955,6 +959,10 @@
     },
     {
       "input": ["alfheim:altWood1",1,15],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["etfuturum:mangrove_log",1,3],
       "output": ["hbm:item.powder_sawdust",4]
     },
     {
@@ -1242,6 +1250,10 @@
       "output": ["minecraft:stick"]
     },
     {
+      "input": ["etfuturum:mangrove_log"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
       "input": ["hbm:item.ore_nitrocrystalline",1,10],
       "output": ["hbm:item.ore_enriched",1,10]
     },
@@ -1287,6 +1299,10 @@
     },
     {
       "input": ["ExtraTrees:log",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["etfuturum:mangrove_log",1,1],
       "output": ["hbm:item.powder_sawdust",4]
     },
     {
@@ -1618,6 +1634,10 @@
       "output": ["hbm:item.ore_enriched",1,17]
     },
     {
+      "input": ["etfuturum:wood_planks",1,2],
+      "output": ["hbm:item.powder_sawdust"]
+    },
+    {
       "input": ["evilcraft:undeadLog"],
       "output": ["hbm:item.powder_sawdust",4]
     },
@@ -1760,6 +1780,10 @@
     {
       "input": ["hbm:item.ore_deepcleaned",1,7],
       "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["etfuturum:sapling"],
+      "output": ["minecraft:stick"]
     },
     {
       "input": ["magianaturalis:block.arcaneWood"],
@@ -2272,6 +2296,10 @@
     {
       "input": ["hbm:item.ore_nitrated",1,9],
       "output": ["hbm:item.ore_enriched",1,9]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,27],
+      "output": ["hbm:item.scrap_plastic"]
     },
     {
       "input": ["ExtraTrees:log",1,39],
@@ -3171,6 +3199,10 @@
     },
     {
       "input": ["IC2:blockRubSapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["etfuturum:azalea",1,32767],
       "output": ["minecraft:stick"]
     },
     {

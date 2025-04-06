@@ -1302,6 +1302,36 @@
         ["CHLOROMETHANE",1000]
       ],
       "itemOutput": []
+    },
+    {
+      "id": 1003,
+      "name": "HYDRAPISS",
+      "duration": 300,
+      "fluidInput": [
+        ["NITRIC_ACID",2000]
+      ],
+      "itemInput": [
+        ["item","hbm:item.rag_piss"]
+      ],
+      "fluidOutput": [
+        ["HYDRAZINE",800]
+      ],
+      "itemOutput": []
+    },
+    {
+      "id": 123,
+      "name": "RUSTY_DECO_STEEL",
+      "duration": 100,
+      "fluidInput": [
+        ["WATER",1000]
+      ],
+      "itemInput": [
+        ["item","hbm:tile.deco_steel",8]
+      ],
+      "fluidOutput": [],
+      "itemOutput": [
+        ["hbm:tile.deco_rusty_steel",8]
+      ]
     }
   ]
 }

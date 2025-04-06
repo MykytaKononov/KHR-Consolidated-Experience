@@ -121,6 +121,36 @@
       "extra": "FULL_MOON"
     },
     {
+      "output": ["hbm:item.gun_aberrator"],
+      "input": [
+        null,
+        ["item","hbm:item.item_secret",1,3],
+        null,
+        ["item","hbm:item.item_secret",1,3],
+        ["dict","gunMechanismSaturnite",4],
+        ["item","hbm:item.item_secret",1,3],
+        null,
+        ["item","hbm:item.item_secret",1,3],
+        null
+      ],
+      "extra": "NONE"
+    },
+    {
+      "output": ["hbm:item.gun_aberrator_eott"],
+      "input": [
+        ["item","hbm:item.item_secret",1,3],
+        ["item","hbm:item.item_secret",1,3],
+        ["item","hbm:item.item_secret",1,3],
+        ["item","hbm:item.item_secret",1,3],
+        ["dict","gunMechanismSaturnite",16],
+        ["item","hbm:item.item_secret",1,3],
+        ["item","hbm:item.item_secret",1,3],
+        ["item","hbm:item.item_secret",1,3],
+        ["item","hbm:item.item_secret",1,3]
+      ],
+      "extra": "NONE"
+    },
+    {
       "output": ["hbm:item.ammo_secret"],
       "input": [
         ["dict","ingotStarmetal"],
@@ -149,6 +179,21 @@
         ["dict","ingotStarmetal"]
       ],
       "extra": "FULL_MOON"
+    },
+    {
+      "output": ["hbm:item.ammo_secret",5,5],
+      "input": [
+        null,
+        null,
+        null,
+        null,
+        ["item","hbm:item.item_secret",1,3],
+        null,
+        null,
+        null,
+        null
+      ],
+      "extra": "NONE"
     }
   ]
 }

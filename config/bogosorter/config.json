@@ -8,6 +8,7 @@
     "dropoffChatMessage": true,
     "dropoffQuotaInMS": 1,
     "dropoffPacketThrottleInMS": 500,
+    "dropoffTargetNames": "*Chest*, *Barrel*, *Drawer*, *Crate*",
     "dropoffButtonShow": true,
     "dropoffButtonX": 160,
     "dropoffButtonY": 5,
